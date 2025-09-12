@@ -1,0 +1,25 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UE5_job.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\gsimp\OneDrive\Desktop\Job Horror\UE5_job\Intermediate\Build\Win64\x64\UE5_jobEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\gsimp\OneDrive\Desktop\Job Horror\UE5_job\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE5_job\TP_PickUpComponent.gen.cpp.obj"
+"C:\Users\gsimp\OneDrive\Desktop\Job Horror\UE5_job\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE5_job\TP_WeaponComponent.gen.cpp.obj"
+"C:\Users\gsimp\OneDrive\Desktop\Job Horror\UE5_job\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE5_job\UE5_job.init.gen.cpp.obj"
+"C:\Users\gsimp\OneDrive\Desktop\Job Horror\UE5_job\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE5_job\UE5_jobCharacter.gen.cpp.obj"
+"C:\Users\gsimp\OneDrive\Desktop\Job Horror\UE5_job\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE5_job\UE5_jobGameMode.gen.cpp.obj"
+"C:\Users\gsimp\OneDrive\Desktop\Job Horror\UE5_job\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE5_job\UE5_jobPlayerController.gen.cpp.obj"
+"C:\Users\gsimp\OneDrive\Desktop\Job Horror\UE5_job\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE5_job\UE5_jobProjectile.gen.cpp.obj"
+"C:\Users\gsimp\OneDrive\Desktop\Job Horror\UE5_job\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE5_job\TP_PickUpComponent.cpp.obj"
+"C:\Users\gsimp\OneDrive\Desktop\Job Horror\UE5_job\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE5_job\TP_WeaponComponent.cpp.obj"
+"C:\Users\gsimp\OneDrive\Desktop\Job Horror\UE5_job\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE5_job\UE5_job.cpp.obj"
+"C:\Users\gsimp\OneDrive\Desktop\Job Horror\UE5_job\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE5_job\UE5_jobCharacter.cpp.obj"
+"C:\Users\gsimp\OneDrive\Desktop\Job Horror\UE5_job\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE5_job\UE5_jobGameMode.cpp.obj"
+"C:\Users\gsimp\OneDrive\Desktop\Job Horror\UE5_job\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE5_job\UE5_jobPlayerController.cpp.obj"
+"C:\Users\gsimp\OneDrive\Desktop\Job Horror\UE5_job\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE5_job\UE5_jobProjectile.cpp.obj"
+"C:\Users\gsimp\OneDrive\Desktop\Job Horror\UE5_job\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE5_job\Default.rc2.res"
+/OUT:"C:\Users\gsimp\OneDrive\Desktop\Job Horror\UE5_job\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE5_job\UnrealEditor-UE5_job.lib"

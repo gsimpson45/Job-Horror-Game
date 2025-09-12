@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\gsimp\\onedrive\\desktop\\job horror\\ue5_job\\source\\ue5_job\\ue5_job.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\gsimp\\onedrive\\desktop\\job horror\\ue5_job\\intermediate\\build\\win64\\x64\\ue5_jobeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\gsimp\\onedrive\\desktop\\job horror\\ue5_job\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ue5_job\\definitions.ue5_job.h",
+            "c:\\users\\gsimp\\onedrive\\desktop\\job horror\\ue5_job\\source\\ue5_job\\ue5_job.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

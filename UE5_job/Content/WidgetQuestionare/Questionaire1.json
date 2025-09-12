@@ -1,0 +1,25 @@
+{
+  
+    "Q1":{
+      "question": "How are you doing?",
+      "choice": ["Good", "Great", "Depressed"],
+      "AnswerIndex": 1,
+      "typeSpeed": 1,
+      "TriggerEvent": "none"
+    },
+    "Q2":{
+      "question": "Did you eat supghetti?",
+      "choice": ["No", "Yes", "Die"],
+      "AnswerIndex": 2,
+      "typeSpeed": 1,
+      "TriggerEvent": "none"
+    },
+    "Q3":{
+      "question": "How are you now?",
+      "choice": ["Good", "Great", "Depressed"],
+      "AnswerIndex": 1,
+      "typeSpeed": 1,
+      "TriggerEvent": "none"
+    }
+  
+}

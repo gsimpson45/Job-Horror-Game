@@ -1,0 +1,15 @@
+[
+  
+    {
+      "Name":"D_1",
+      "Character": "AI",
+      "emotion": "neutral",
+      "dialogue": "Hello Sean",
+      "typeSpeed": 1.0,
+      "eventTag":"",
+      "triggerEvent": "none",
+      "nextMessage":[2],
+      "messageID":1
+    }
+  
+]
