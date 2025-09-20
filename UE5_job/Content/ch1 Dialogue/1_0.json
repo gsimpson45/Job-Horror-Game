@@ -8,7 +8,29 @@
       "typeSpeed": 1.0,
       "eventTag":"",
       "triggerEvent": "none",
+      "nextMessage":[1],
+      "messageID":1
+    },
+    {
+      "Name":"D_2",
+      "Character": "AI",
+      "emotion": "neutral",
+      "dialogue": "Hello Bill",
+      "typeSpeed": 1.0,
+      "eventTag":"",
+      "triggerEvent": "none",
       "nextMessage":[2],
+      "messageID":1
+    },
+    {
+      "Name":"D_3",
+      "Character": "AI",
+      "emotion": "neutral",
+      "dialogue": "Hello Quil",
+      "typeSpeed": 1.0,
+      "eventTag":"",
+      "triggerEvent": "none",
+      "nextMessage":[0,1],
       "messageID":1
     }
   
