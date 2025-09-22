@@ -1,7 +1,7 @@
 [
   
     {
-      "Name":"D_1",
+      "Name":"D_0",
       "Character": "AI",
       "emotion": "neutral",
       "dialogue": "Hello Sean",
@@ -9,13 +9,13 @@
       "eventTag":"",
       "triggerEvent": "none",
       "nextMessage":[1],
-      "messageID":1
+      "messageID":0
     },
     {
-      "Name":"D_2",
-      "Character": "AI",
+      "Name":"D_1",
+      "Character": "You",
       "emotion": "neutral",
-      "dialogue": "Hello Bill",
+      "dialogue": "Hello Nyra",
       "typeSpeed": 1.0,
       "eventTag":"",
       "triggerEvent": "none",
@@ -23,15 +23,111 @@
       "messageID":1
     },
     {
-      "Name":"D_3",
-      "Character": "AI",
+      "Name":"D_2",
+      "Character": "Nyra",
       "emotion": "neutral",
-      "dialogue": "Hello Quil",
+      "dialogue": "How are you doing",
       "typeSpeed": 1.0,
       "eventTag":"",
       "triggerEvent": "none",
-      "nextMessage":[0,1],
-      "messageID":1
+      "nextMessage":[3,4],
+      "messageID":2
     }
+    ,
+    {
+      "Name":"D_3",
+      "Character": "You",
+      "emotion": "neutral",
+      "dialogue": "I hate today",
+      "typeSpeed": 1.0,
+      "eventTag":"",
+      "triggerEvent": "none",
+      "nextMessage":[5],
+      "messageID":3
+    }
+      ,
+    {
+      "Name":"D_4",
+      "Character": "Character",
+      "emotion": "neutral",
+      "dialogue": "I'm doing just swell",
+      "typeSpeed": 1.0,
+      "eventTag":"",
+      "triggerEvent": "none",
+      "nextMessage":[6],
+      "messageID":4
+    }
+        ,
+    {
+      "Name":"D_5",
+      "Character": "Nyra",
+      "emotion": "neutral",
+      "dialogue": "That a go little incel",
+      "typeSpeed": 1.0,
+      "eventTag":"",
+      "triggerEvent": "none",
+      "nextMessage":[6],
+      "messageID":5
+    }
+     ,
+    {
+      "Name":"D_6",
+      "Character": "Nyra",
+      "emotion": "neutral",
+      "dialogue": "That's good",
+      "typeSpeed": 1.0,
+      "eventTag":"",
+      "triggerEvent": "none",
+      "nextMessage":[7],
+      "messageID":6
+    }
+       ,
+    {
+      "Name":"D_7",
+      "Character": "Nyra",
+      "emotion": "smug",
+      "dialogue": "Does it jiggle jiggle",
+      "typeSpeed": 1.0,
+      "eventTag":"",
+      "triggerEvent": "none",
+      "nextMessage":[8,9],
+      "messageID":7
+    },
+     {
+      "Name":"D_8",
+      "Character": "Character",
+      "emotion": "smug",
+      "dialogue": "It folds",
+      "typeSpeed": 1.0,
+      "eventTag":"",
+      "triggerEvent": "none",
+      "nextMessage":[10],
+      "messageID":8
+    },
+     {
+      "Name":"D_9",
+      "Character": "Character",
+      "emotion": "smug",
+      "dialogue": "It toils",
+      "typeSpeed": 1.0,
+      "eventTag":"",
+      "triggerEvent": "none",
+      "nextMessage":[10],
+      "messageID":9
+    }
+    ,
+     {
+      "Name":"D_10",
+      "Character": "Character",
+      "emotion": "neutral",
+      "dialogue": "Fo sho",
+      "typeSpeed": 1.0,
+      "eventTag":"",
+      "triggerEvent": "none",
+      "nextMessage":[11],
+      "messageID":10
+    }
+  
+  
   
 ]
