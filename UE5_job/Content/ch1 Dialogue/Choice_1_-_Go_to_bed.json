@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "D_0",
+    "Character": "You",
+    "emotion": "tired",
+    "dialogue": "I don't know why I thought I should feel remorseful to an AI. They aren't capable of emotional intelligence. By tomorrow, everything tonight will just be another bit in her terabyte worth archived data.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      1
+    ],
+    "messageID": 0
+  },
+  {
+    "Name": "D_1",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "She'll forget about it.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [],
+    "messageID": 1
+  }
+]

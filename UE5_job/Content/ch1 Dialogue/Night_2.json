@@ -1,0 +1,221 @@
+[
+  {
+    "Name": "D_0",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "Finally, the WiFi is back!",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      1
+    ],
+    "messageID": 0
+  },
+  {
+    "Name": "D_1",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "Oh… Bailey dm'ed me.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      2
+    ],
+    "messageID": 1
+  },
+  {
+    "Name": "D_2",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "\"I have to head to bed for work tomorrow. Get better WiFi for next time you troll.\"",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      3
+    ],
+    "messageID": 2
+  },
+  {
+    "Name": "D_3",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "I don't even have a retort this time to be honest.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      4
+    ],
+    "messageID": 3
+  },
+  {
+    "Name": "D_4",
+    "Character": "You",
+    "emotion": "surprise",
+    "dialogue": "Oh, gosh. If I lost power, that means for the first time since Nyra was able to speak…",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      5
+    ],
+    "messageID": 4
+  },
+  {
+    "Name": "D_5",
+    "Character": "You",
+    "emotion": "surprise",
+    "dialogue": "She has fully restarted.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      6
+    ],
+    "messageID": 5
+  },
+  {
+    "Name": "D_6",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "RAAHHHHHH!!!",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      7
+    ],
+    "messageID": 6
+  },
+  {
+    "Name": "D_7",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "I will have to boot her up again! It will take ALL NIGHT!!",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      8
+    ],
+    "messageID": 7
+  },
+  {
+    "Name": "D_8",
+    "Character": "You",
+    "emotion": "angry",
+    "dialogue": "DAMMIT!!",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      9
+    ],
+    "messageID": 8
+  },
+  {
+    "Name": "D_9",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "I didn't have time to give her a proper memory function yet. Which means…",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      10
+    ],
+    "messageID": 9
+  },
+  {
+    "Name": "D_10",
+    "Character": "You",
+    "emotion": "happy",
+    "dialogue": "Haha…",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      11
+    ],
+    "messageID": 10
+  },
+  {
+    "Name": "D_11",
+    "Character": "You",
+    "emotion": "happy",
+    "dialogue": "HAHAHAHA!!!",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      12
+    ],
+    "messageID": 11
+  },
+  {
+    "Name": "D_12",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "Great! GREAT!!",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      13
+    ],
+    "messageID": 12
+  },
+  {
+    "Name": "D_13",
+    "Character": "You",
+    "emotion": "angry",
+    "dialogue": "I lost her. I LOST EVERYTHING!",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      14
+    ],
+    "messageID": 13
+  },
+  {
+    "Name": "D_14",
+    "Character": "You",
+    "emotion": "tired",
+    "dialogue": "Just when I thought I was making progress, it all comes crashing down. Was I too ambitious? Too arrogant?",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      15
+    ],
+    "messageID": 14
+  },
+  {
+    "Name": "D_15",
+    "Character": "You",
+    "emotion": "angry",
+    "dialogue": "What is it? Why can't I get anything to work? Am I so cursed, or is this world just falling apart? I can't tell anymore.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      16
+    ],
+    "messageID": 15
+  },
+  {
+    "Name": "D_16",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "I am not going to deal with this crap anymore. I am going to bed.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [],
+    "messageID": 16
+  }
+]

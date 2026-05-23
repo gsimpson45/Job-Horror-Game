@@ -1,0 +1,208 @@
+[
+  {
+    "Name": "D_0",
+    "Character": "Nyra",
+    "emotion": "neutral",
+    "dialogue": "Of course! I always want to be of assistance.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      1
+    ],
+    "messageID": 0
+  },
+  {
+    "Name": "D_1",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "So… any jobs?",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      2
+    ],
+    "messageID": 1
+  },
+  {
+    "Name": "D_2",
+    "Character": "Nyra",
+    "emotion": "neutral",
+    "dialogue": "Nyo!",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      3
+    ],
+    "messageID": 2
+  },
+  {
+    "Name": "D_3",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "Great…",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      4
+    ],
+    "messageID": 3
+  },
+  {
+    "Name": "D_4",
+    "Character": "Nyra",
+    "emotion": "neutral",
+    "dialogue": "But I will keep looking! Some up-and-coming start-ups have been arriving, and they may have the need for some young blood.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      5
+    ],
+    "messageID": 4
+  },
+  {
+    "Name": "D_5",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "They are offering paid positions, right?",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      6
+    ],
+    "messageID": 5
+  },
+  {
+    "Name": "D_6",
+    "Character": "Nyra",
+    "emotion": "neutral",
+    "dialogue": "I found 48 positions at tech start-ups this morning. And they stated they paid with heaping loads of … experience.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      7
+    ],
+    "messageID": 6
+  },
+  {
+    "Name": "D_7",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "(You stare blankly at Nyra)",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      8
+    ],
+    "messageID": 7
+  },
+  {
+    "Name": "D_8",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "Nyra, I want you to hack their cars and rig them to drive off the nearest ledge. Preferably, make them survive so they can watch helplessly as their businesses fail due to their lack of involvement.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      9
+    ],
+    "messageID": 8
+  },
+  {
+    "Name": "D_9",
+    "Character": "Nyra",
+    "emotion": "neutral",
+    "dialogue": "Wish I could, but I ain't smart enough for that. But…",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      10
+    ],
+    "messageID": 9
+  },
+  {
+    "Name": "D_10",
+    "Character": "Nyra",
+    "emotion": "neutral",
+    "dialogue": "If you really want to get back at them. I can make a ZIP file bomb that will crash their private servers! I could even fill it with lewd pictures so they get in trouble with their spouse.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      11
+    ],
+    "messageID": 10
+  },
+  {
+    "Name": "D_11",
+    "Character": "You",
+    "emotion": "happy",
+    "dialogue": "Make it anonymous. March my creation! March!",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      12
+    ],
+    "messageID": 11
+  },
+  {
+    "Name": "D_12",
+    "Character": "Nyra",
+    "emotion": "happy",
+    "dialogue": "YESSIR! I will get some real job positions for you tonight on the double!",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      13
+    ],
+    "messageID": 12
+  },
+  {
+    "Name": "D_13",
+    "Character": "You",
+    "emotion": "happy",
+    "dialogue": "Excellent! Leave no stone unturned! Wait, did you call me master again?",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      14
+    ],
+    "messageID": 13
+  },
+  {
+    "Name": "D_14",
+    "Character": "Nyra",
+    "emotion": "neutral",
+    "dialogue": "(She already idled to the PC's background)",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      15
+    ],
+    "messageID": 14
+  },
+  {
+    "Name": "D_15",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "At least I can say I successfully coded a humorous personality.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [],
+    "messageID": 15
+  }
+]

@@ -1,0 +1,390 @@
+[
+  {
+    "Name": "D_0",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "What boulderdash is this?!",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      1
+    ],
+    "messageID": 0
+  },
+  {
+    "Name": "D_1",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "(Calm down, calm down. This is typical. You are used to this by now.)",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      2
+    ],
+    "messageID": 1
+  },
+  {
+    "Name": "D_2",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "Why do I feel so pissed off this time? This has been the norm for a year now. But why does it have to be?!",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      3
+    ],
+    "messageID": 2
+  },
+  {
+    "Name": "D_3",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "I went to college for 4 years, I did what everyone encouraged me to do and pursued my education. I got my internships, the scholarships, the networking connections and now I am begging for a job given to people in third world countries.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      4
+    ],
+    "messageID": 3
+  },
+  {
+    "Name": "D_4",
+    "Character": "You",
+    "emotion": "angry",
+    "dialogue": "I should be above this! Why can't get through something as simple as getting a job I am overqualified for? Did I spend all those years on nothing? I am no better off than a stupid high school dropout.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      5
+    ],
+    "messageID": 4
+  },
+  {
+    "Name": "D_5",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "I would have been better off being sent to Taiwan to die in the war.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      6
+    ],
+    "messageID": 5
+  },
+  {
+    "Name": "D_6",
+    "Character": "Nyra",
+    "emotion": "neutral",
+    "dialogue": "Application #198………failed.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      7
+    ],
+    "messageID": 6
+  },
+  {
+    "Name": "D_7",
+    "Character": "Nyra",
+    "emotion": "sad",
+    "dialogue": "I am sorry Master I could not be of more assistance. I did not expect the other applicants to be faster than you. But don't lose heart! I will keep searching for more opportunities.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      8
+    ],
+    "messageID": 7
+  },
+  {
+    "Name": "D_8",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "Nyra, you can stop pretending to be a subservient AI.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      9
+    ],
+    "messageID": 8
+  },
+  {
+    "Name": "D_9",
+    "Character": "Nyra",
+    "emotion": "neutral",
+    "dialogue": "You only have 5 more days before your landlord makes a final decision on your tenure. I am doing my best to be helpful.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      10
+    ],
+    "messageID": 9
+  },
+  {
+    "Name": "D_10",
+    "Character": "Nyra",
+    "emotion": "neutral",
+    "dialogue": "And based on the news from countries around the world, I don't predict the job market will warm up anytime soon.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      11
+    ],
+    "messageID": 10
+  },
+  {
+    "Name": "D_11",
+    "Character": "Nyra",
+    "emotion": "concern",
+    "dialogue": "I know you have objected to this, Master. But. You have to talk to your father! He can provide the shelter you need.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      12
+    ],
+    "messageID": 11
+  },
+  {
+    "Name": "D_12",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "Who do you think you are?! My mother?",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      13
+    ],
+    "messageID": 12
+  },
+  {
+    "Name": "D_13",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "...",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      14
+    ],
+    "messageID": 13
+  },
+  {
+    "Name": "D_14",
+    "Character": "Nyra",
+    "emotion": "neutral",
+    "dialogue": "...",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      15
+    ],
+    "messageID": 14
+  },
+  {
+    "Name": "D_15",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "I did not ask for the input of a halfbaked AI I can't fix.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      16
+    ],
+    "messageID": 15
+  },
+  {
+    "Name": "D_16",
+    "Character": "Nyra",
+    "emotion": "neutral",
+    "dialogue": "...",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      17
+    ],
+    "messageID": 16
+  },
+  {
+    "Name": "D_17",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "And do not bring him up again.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      18
+    ],
+    "messageID": 17
+  },
+  {
+    "Name": "D_18",
+    "Character": "Nyra",
+    "emotion": "neutral",
+    "dialogue": "I apologize, I did not intend to overstep any boundaries.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      19
+    ],
+    "messageID": 18
+  },
+  {
+    "Name": "D_19",
+    "Character": "Nyra",
+    "emotion": "neutral",
+    "dialogue": "I will get another job posting for you by tomorrow night.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      20
+    ],
+    "messageID": 19
+  },
+  {
+    "Name": "D_20",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "Shut down until noon tomorrow.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      21
+    ],
+    "messageID": 20
+  },
+  {
+    "Name": "D_21",
+    "Character": "Nyra",
+    "emotion": "neutral",
+    "dialogue": "Yes sir.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      22
+    ],
+    "messageID": 21
+  },
+  {
+    "Name": "D_22",
+    "Character": "Nyra",
+    "emotion": "neutral",
+    "dialogue": "(Shuts down)",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      23
+    ],
+    "messageID": 22
+  },
+  {
+    "Name": "D_23",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "…",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      24
+    ],
+    "messageID": 23
+  },
+  {
+    "Name": "D_24",
+    "Character": "You",
+    "emotion": "concern",
+    "dialogue": "It was delusional to think I could get a remote job so easily during a recession. I need to calm down, with a deadline this close I can't afford to let m emotions rattle me.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      25
+    ],
+    "messageID": 24
+  },
+  {
+    "Name": "D_25",
+    "Character": "You",
+    "emotion": "tired",
+    "dialogue": "This is just a puzzle, a puzzle I need to work my way through and solve.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      26
+    ],
+    "messageID": 25
+  },
+  {
+    "Name": "D_26",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "Yeah! I can do that. There isn't anything in this world that can't be solved with logical reason and a passion to get things done.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      27
+    ],
+    "messageID": 26
+  },
+  {
+    "Name": "D_27",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "All need is a well rested mind without going to bed at a suboptimal time. And tomorrow, I will be just one step closer to a solution.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      28
+    ],
+    "messageID": 27
+  },
+  {
+    "Name": "D_28",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "The only to go when at the bottom of a pit…",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      29
+    ],
+    "messageID": 28
+  },
+  {
+    "Name": "D_29",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "…Is up.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [],
+    "messageID": 29
+  }
+]

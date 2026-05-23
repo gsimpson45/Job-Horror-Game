@@ -1,0 +1,598 @@
+[
+  {
+    "Name": "D_0",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "How have you been doing since the… y'know… since the incident?",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      1
+    ],
+    "messageID": 0
+  },
+  {
+    "Name": "D_1",
+    "Character": "Bailey",
+    "emotion": "neutral",
+    "dialogue": "...",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      2
+    ],
+    "messageID": 1
+  },
+  {
+    "Name": "D_2",
+    "Character": "Bailey",
+    "emotion": "neutral",
+    "dialogue": "Um…I have been fine.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      3
+    ],
+    "messageID": 2
+  },
+  {
+    "Name": "D_3",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "Fine? Just fine?",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      4
+    ],
+    "messageID": 3
+  },
+  {
+    "Name": "D_4",
+    "Character": "Bailey",
+    "emotion": "neutral",
+    "dialogue": "Yeah. What's wrong with that?",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      5
+    ],
+    "messageID": 4
+  },
+  {
+    "Name": "D_5",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "When was the last time you got some sunlight? A hug? Exercised?",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      6
+    ],
+    "messageID": 5
+  },
+  {
+    "Name": "D_6",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "Bailey. You are either working, drunk, or playing ROL all day. Even as a fellow shut-in, I can acknowledge that it is too unhealthy.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      7
+    ],
+    "messageID": 6
+  },
+  {
+    "Name": "D_7",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "That is the reason for my most recent project, Nyra. We need human interaction in some form, or else we will go insane.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      8
+    ],
+    "messageID": 7
+  },
+  {
+    "Name": "D_8",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "No matter how introverted, we are still social creatures.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      9
+    ],
+    "messageID": 8
+  },
+  {
+    "Name": "D_9",
+    "Character": "Bailey",
+    "emotion": "tired",
+    "dialogue": "Does talking to you not count? Talking with you Alex, is more than enough socializing for me.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      10
+    ],
+    "messageID": 9
+  },
+  {
+    "Name": "D_10",
+    "Character": "Bailey",
+    "emotion": "neutral",
+    "dialogue": "Besides, I am still not ready to venture out. That is what my therapist recommended.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      11
+    ],
+    "messageID": 10
+  },
+  {
+    "Name": "D_11",
+    "Character": "Bailey",
+    "emotion": "neutral",
+    "dialogue": "Hold on! That is another person I still talk to, my therapist Mr.Ashborne.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      12
+    ],
+    "messageID": 11
+  },
+  {
+    "Name": "D_12",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "That doesn't count…",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      13
+    ],
+    "messageID": 12
+  },
+  {
+    "Name": "D_13",
+    "Character": "Bailey",
+    "emotion": "neutral",
+    "dialogue": "That is still a person! One point in my favor!",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      14
+    ],
+    "messageID": 13
+  },
+  {
+    "Name": "D_14",
+    "Character": "Bailey",
+    "emotion": "concern",
+    "dialogue": "There is no need to be concerned. I have always been a homebody. The only thing different now is a few extra pounds.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      15
+    ],
+    "messageID": 14
+  },
+  {
+    "Name": "D_15",
+    "Character": "Bailey",
+    "emotion": "neutral",
+    "dialogue": "And I don't mind the weight. I chose this life, and this body is proof of my dedication to indulging myself until the day I get my isekai.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      16
+    ],
+    "messageID": 15
+  },
+  {
+    "Name": "D_16",
+    "Character": "Bailey",
+    "emotion": "neutral",
+    "dialogue": "It is so much better now than back in high school when I had to worry about my appearance all the time.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      17
+    ],
+    "messageID": 16
+  },
+  {
+    "Name": "D_17",
+    "Character": "Bailey",
+    "emotion": "neutral",
+    "dialogue": "Too many things to worry about when dealing with people. They're always judging your looks, how you talk, what clubs you're in, and who you're friends with.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      18
+    ],
+    "messageID": 17
+  },
+  {
+    "Name": "D_18",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "I agree, high school was an absolute nightmare.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      19
+    ],
+    "messageID": 18
+  },
+  {
+    "Name": "D_19",
+    "Character": "Bailey",
+    "emotion": "neutral",
+    "dialogue": "You remember I used to complain about my brother making me go to those wrestling classes and dragging me to the gym all the time. I hated all that.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      20
+    ],
+    "messageID": 19
+  },
+  {
+    "Name": "D_20",
+    "Character": "Bailey",
+    "emotion": "neutral",
+    "dialogue": "I literally hated having to interact with all those fake people.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      21
+    ],
+    "messageID": 20
+  },
+  {
+    "Name": "D_21",
+    "Character": "Bailey",
+    "emotion": "neutral",
+    "dialogue": "Hated it.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      22
+    ],
+    "messageID": 21
+  },
+  {
+    "Name": "D_22",
+    "Character": "Bailey",
+    "emotion": "neutral",
+    "dialogue": "Ehhh.. If I could choose to rewrite all those years, I would just stay inside, watch anime, and play video games until I pass out.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      23
+    ],
+    "messageID": 22
+  },
+  {
+    "Name": "D_23",
+    "Character": "Bailey",
+    "emotion": "neutral",
+    "dialogue": "Now I have a job where I can stay at home and do whatever I want. It is a dream come true.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      24
+    ],
+    "messageID": 23
+  },
+  {
+    "Name": "D_24",
+    "Character": "Bailey",
+    "emotion": "neutral",
+    "dialogue": "Um…",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      25
+    ],
+    "messageID": 24
+  },
+  {
+    "Name": "D_25",
+    "Character": "Bailey",
+    "emotion": "neutral",
+    "dialogue": "I am sorry if I come off as bragging. What I mean to say is I am doing great, so there is literally no reason to worry about me.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      26
+    ],
+    "messageID": 25
+  },
+  {
+    "Name": "D_26",
+    "Character": "You",
+    "emotion": "concern",
+    "dialogue": "But do you mind if I come over? To check on you.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      27
+    ],
+    "messageID": 26
+  },
+  {
+    "Name": "D_27",
+    "Character": "Bailey",
+    "emotion": "surprise",
+    "dialogue": "*She frantically fiddles with her mic as if it were a hot potato thrown into her hands* HUH?",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      28
+    ],
+    "messageID": 27
+  },
+  {
+    "Name": "D_28",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "Every once in a blue moon, we will meet up at the gym or park, but it has been too long since we met face-to-face. Also, I never did get to see your new apartment. The one you moved to after you graduated from uni.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      29
+    ],
+    "messageID": 28
+  },
+  {
+    "Name": "D_29",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "Why not kill two birds with one stone? I will come over with my laptop and we can hang out at your place.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      30
+    ],
+    "messageID": 29
+  },
+  {
+    "Name": "D_30",
+    "Character": "Bailey",
+    "emotion": "neutral",
+    "dialogue": "As in here? Right now?! Oh gosh, but my place is such a mess, and so is my hair. I am in a repulsive state. Like a vibe-coded GPU compiler vib coded by a business major.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      31
+    ],
+    "messageID": 30
+  },
+  {
+    "Name": "D_31",
+    "Character": "Bailey",
+    "emotion": "neutral",
+    "dialogue": "Don't come!",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      32
+    ],
+    "messageID": 31
+  },
+  {
+    "Name": "D_32",
+    "Character": "You",
+    "emotion": "angry",
+    "dialogue": "Alright, alright! I won't. Do you want to come over to my place? It probably isn't as messy as yours.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      33
+    ],
+    "messageID": 32
+  },
+  {
+    "Name": "D_33",
+    "Character": "Bailey",
+    "emotion": "neutral",
+    "dialogue": "Umm…",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      34
+    ],
+    "messageID": 33
+  },
+  {
+    "Name": "D_34",
+    "Character": "You",
+    "emotion": "tired",
+    "dialogue": "Oh! I am sorry I forgot. Don't feel the need to come over. I don't mean to pressure you to go outside and stuff. But we ought to do something. I feel like we are just two rats slowly losing our minds in this urban jungle.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      35
+    ],
+    "messageID": 34
+  },
+  {
+    "Name": "D_35",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "And us rats got to stick together. And don't have to go outside if you don't want to. I'll come over if need be.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      36
+    ],
+    "messageID": 35
+  },
+  {
+    "Name": "D_36",
+    "Character": "Bailey",
+    "emotion": "neutral",
+    "dialogue": "…",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      37
+    ],
+    "messageID": 36
+  },
+  {
+    "Name": "D_37",
+    "Character": "Bailey",
+    "emotion": "neutral",
+    "dialogue": "I will try not to worry you.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      38
+    ],
+    "messageID": 37
+  },
+  {
+    "Name": "D_38",
+    "Character": "Bailey",
+    "emotion": "neutral",
+    "dialogue": "Because… I don't want you to come over and stick the place up, you gooner.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      39
+    ],
+    "messageID": 38
+  },
+  {
+    "Name": "D_39",
+    "Character": "You",
+    "emotion": "happy",
+    "dialogue": "Pfft! Okay dude.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      40
+    ],
+    "messageID": 39
+  },
+  {
+    "Name": "D_40",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "I don't think you should be one to call me a gooner. I have seen your recent visual novels in your game library.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      41
+    ],
+    "messageID": 40
+  },
+  {
+    "Name": "D_41",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "I can name a couple of BL novels if you'd like…",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      42
+    ],
+    "messageID": 41
+  },
+  {
+    "Name": "D_42",
+    "Character": "Bailey",
+    "emotion": "neutral",
+    "dialogue": "EEK! Stop teasing me already, you are such a bully.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      43
+    ],
+    "messageID": 42
+  },
+  {
+    "Name": "D_43",
+    "Character": "Bailey",
+    "emotion": "neutral",
+    "dialogue": "Can we play ROL now?",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      44
+    ],
+    "messageID": 43
+  },
+  {
+    "Name": "D_44",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "Only if you don't troll me.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      45
+    ],
+    "messageID": 44
+  },
+  {
+    "Name": "D_45",
+    "Character": "Bailey",
+    "emotion": "neutral",
+    "dialogue": "Ditto",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [],
+    "messageID": 45
+  }
+]

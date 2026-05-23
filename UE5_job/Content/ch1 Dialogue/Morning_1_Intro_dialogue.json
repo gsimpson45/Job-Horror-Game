@@ -1,0 +1,234 @@
+[
+  {
+    "Name": "D_0",
+    "Character": "You",
+    "emotion": "tired",
+    "dialogue": "Ugh…I feel like an elephant was dropped on top of me.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      1
+    ],
+    "messageID": 0
+  },
+  {
+    "Name": "D_1",
+    "Character": "You",
+    "emotion": "tired",
+    "dialogue": "I should've went to bed earlier. Gaming until 7 A.M. was an awful waste of time.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      2
+    ],
+    "messageID": 1
+  },
+  {
+    "Name": "D_2",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "Worst of all I ended on a losing streak and demoted.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      3
+    ],
+    "messageID": 2
+  },
+  {
+    "Name": "D_3",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "*Stretches* Urrrrrrrrrrrgh… What time is it?",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      4
+    ],
+    "messageID": 3
+  },
+  {
+    "Name": "D_4",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "(Turns over to your phone)",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      5
+    ],
+    "messageID": 4
+  },
+  {
+    "Name": "D_5",
+    "Character": "You",
+    "emotion": "angry",
+    "dialogue": "2 PM?! Dammit!",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      6
+    ],
+    "messageID": 5
+  },
+  {
+    "Name": "D_6",
+    "Character": "You",
+    "emotion": "tired",
+    "dialogue": "I have to get things going. The day is already halfway through.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      7
+    ],
+    "messageID": 6
+  },
+  {
+    "Name": "D_7",
+    "Character": "You",
+    "emotion": "tired",
+    "dialogue": "I really thought my sleep schedule would improve after I graduated. No more homework , no internships to deal with, no brief acquaintances trying to pull me to their weird parties and social gatherings.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      8
+    ],
+    "messageID": 7
+  },
+  {
+    "Name": "D_8",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "But all that improved was my ROL rank and my ability to procrastinate just about anything.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      9
+    ],
+    "messageID": 8
+  },
+  {
+    "Name": "D_9",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "To think there are people out there with full-time jobs and they manage to go to the gym for hours every day.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      10
+    ],
+    "messageID": 9
+  },
+  {
+    "Name": "D_10",
+    "Character": "You",
+    "emotion": "tired",
+    "dialogue": "Freaks of nature are what they are. Getting a job is hard enough.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      11
+    ],
+    "messageID": 10
+  },
+  {
+    "Name": "D_11",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "Job hunting has been an absolutely humiliating experience!",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      12
+    ],
+    "messageID": 11
+  },
+  {
+    "Name": "D_12",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "The few interviews I got this month made me feel like a jester performing before some rich noble. I doubt they were considering anyone for that position.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      13
+    ],
+    "messageID": 12
+  },
+  {
+    "Name": "D_13",
+    "Character": "You",
+    "emotion": "angry",
+    "dialogue": "Honestly ridiculous. I should get paid for all this. Having to endure such stupid interview questions is a job on its own.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      14
+    ],
+    "messageID": 13
+  },
+  {
+    "Name": "D_14",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "\"Why do you want this job?\" To have money you old coot!",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      15
+    ],
+    "messageID": 14
+  },
+  {
+    "Name": "D_15",
+    "Character": "You",
+    "emotion": "concern",
+    "dialogue": "But, I have to keep trying. Unless I miraculously fix and sell my botched virtual assistant project, I need a job to hold me down. If I can't work, I can't eat.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      16
+    ],
+    "messageID": 15
+  },
+  {
+    "Name": "D_16",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "It's 2 PM, right? The queue for the employment assistance center is full by now. I should occupy my time until tonight and go after jobs from other time zones. I will have my computer scour job sites for this evening. It should be able to do that without bugging out.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      17
+    ],
+    "messageID": 16
+  },
+  {
+    "Name": "D_17",
+    "Character": "You",
+    "emotion": "concern",
+    "dialogue": "In the meantime, what should I? I need to prepare myself for tonight.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [],
+    "messageID": 17
+  }
+]

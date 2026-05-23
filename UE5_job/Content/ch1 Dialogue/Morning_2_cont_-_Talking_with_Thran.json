@@ -1,0 +1,377 @@
+[
+  {
+    "Name": "D_0",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "Time to hook up with Thran816. I'd like some quality human-to-human dialogue.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      1
+    ],
+    "messageID": 0
+  },
+  {
+    "Name": "D_1",
+    "Character": "Narrator",
+    "emotion": "neutral",
+    "dialogue": "*You boot up Chaotic and ring up Thran816*",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      2
+    ],
+    "messageID": 1
+  },
+  {
+    "Name": "D_2",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "(Thran and I have been friends for as long as I have had internet access. We have been playing duos in ROL ranked for almost 10 years now. Despite 10 years of trying, we never quite reached the prestigious champion rank.)",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      3
+    ],
+    "messageID": 2
+  },
+  {
+    "Name": "D_3",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "(If we both dropped out of college, however, we could have made it. At least that is how I cope.)",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      4
+    ],
+    "messageID": 3
+  },
+  {
+    "Name": "D_4",
+    "Character": "Thran816",
+    "emotion": "neutral",
+    "dialogue": "Hello? Hello?",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      5
+    ],
+    "messageID": 4
+  },
+  {
+    "Name": "D_5",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "Hey Thran. Are you still buzzed?",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      6
+    ],
+    "messageID": 5
+  },
+  {
+    "Name": "D_6",
+    "Character": "Thran816",
+    "emotion": "neutral",
+    "dialogue": "Hey! Are you still trash? You don't get to call me that after those ranked matches a couple of days ago. You threw those games so hard.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      7
+    ],
+    "messageID": 6
+  },
+  {
+    "Name": "D_7",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "Don't act like you were playing well either!",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      8
+    ],
+    "messageID": 7
+  },
+  {
+    "Name": "D_8",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "Bailey!",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      9
+    ],
+    "messageID": 8
+  },
+  {
+    "Name": "D_9",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "Like you literally walked into turrent 3 times in a game and DIED. You are a ranged support main, how do you do that, dude?!",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      10
+    ],
+    "messageID": 9
+  },
+  {
+    "Name": "D_10",
+    "Character": "Bailey",
+    "emotion": "neutral",
+    "dialogue": "Please! That was the last game of the night. I was drunk and taking shots every time you missed the minions.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      11
+    ],
+    "messageID": 10
+  },
+  {
+    "Name": "D_11",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "I was lagging! I haven't been able to reboot my PC for the past month because of my programming project.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      12
+    ],
+    "messageID": 11
+  },
+  {
+    "Name": "D_12",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "Besides. Why are you drinking during ranked? You can barely play the game while sober!",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      13
+    ],
+    "messageID": 12
+  },
+  {
+    "Name": "D_13",
+    "Character": "Bailey",
+    "emotion": "neutral",
+    "dialogue": "Did you really ping me to talk about that terrible night? Because I kind of want to forget about it.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      14
+    ],
+    "messageID": 13
+  },
+  {
+    "Name": "D_14",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "Eh? I am just trying to get my mind off of some stuff. Being in this stuffy room is starting to get to me.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      15
+    ],
+    "messageID": 14
+  },
+  {
+    "Name": "D_15",
+    "Character": "Bailey",
+    "emotion": "neutral",
+    "dialogue": "What? Are you actually thinking of…",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      16
+    ],
+    "messageID": 15
+  },
+  {
+    "Name": "D_16",
+    "Character": "Bailey",
+    "emotion": "neutral",
+    "dialogue": "Going…o",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      17
+    ],
+    "messageID": 16
+  },
+  {
+    "Name": "D_17",
+    "Character": "Bailey",
+    "emotion": "neutral",
+    "dialogue": "Ah-O-ou-ow-out… outside?",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      18
+    ],
+    "messageID": 17
+  },
+  {
+    "Name": "D_18",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "Naw, the job market is not much of an improvement out there.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      19
+    ],
+    "messageID": 18
+  },
+  {
+    "Name": "D_19",
+    "Character": "Bailey",
+    "emotion": "tired",
+    "dialogue": "Ah, okay. Sorry, I thought you had lost your mind. I was worried for a moment that you were going to leave me as the only shut-in in this city",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      20
+    ],
+    "messageID": 19
+  },
+  {
+    "Name": "D_20",
+    "Character": "Bailey",
+    "emotion": "neutral",
+    "dialogue": "By the way, you still haven't found a job yet? You are such a talented programmer. How is that so?",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      21
+    ],
+    "messageID": 20
+  },
+  {
+    "Name": "D_21",
+    "Character": "You",
+    "emotion": "concern",
+    "dialogue": "No need to rub it in…",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      22
+    ],
+    "messageID": 21
+  },
+  {
+    "Name": "D_22",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "The AI tech sector is practically closed off to recruits ever since the war. I don't know why, but I haven't been able to network or contact anyone over there.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      23
+    ],
+    "messageID": 22
+  },
+  {
+    "Name": "D_23",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "I have to assume the government is getting more intertwined with tech companies, and they've become either very selective or very secretive about who gets hired. So now I am stuck with whatever opportunities pop up.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      24
+    ],
+    "messageID": 23
+  },
+  {
+    "Name": "D_24",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "You are lucky you decided to graduate earlier, before the tech sector kicked rocks. I really should have locked in more during my high school years.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      25
+    ],
+    "messageID": 24
+  },
+  {
+    "Name": "D_25",
+    "Character": "Bailey",
+    "emotion": "neutral",
+    "dialogue": "It is not like I had much of a choice. I had no one to turn to if I went broke.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      26
+    ],
+    "messageID": 25
+  },
+  {
+    "Name": "D_26",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "… You're right, I am sorry.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      27
+    ],
+    "messageID": 26
+  },
+  {
+    "Name": "D_27",
+    "Character": "Bailey",
+    "emotion": "neutral",
+    "dialogue": "There is nothing to apologize for.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      28
+    ],
+    "messageID": 27
+  },
+  {
+    "Name": "D_28",
+    "Character": "Bailey",
+    "emotion": "neutral",
+    "dialogue": "Do you want to play ROL? I don't have work today, and I am kinda bored.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [],
+    "messageID": 28
+  }
+]

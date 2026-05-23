@@ -1,0 +1,104 @@
+[
+  {
+    "Name": "D_0",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "Another day, another dollar. Not that I am making any money.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      1
+    ],
+    "messageID": 0
+  },
+  {
+    "Name": "D_1",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "But that changes today! I refuse to have another day of this boulderdash. I will become employed!",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      2
+    ],
+    "messageID": 1
+  },
+  {
+    "Name": "D_2",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "Intelligence, charisma, organization, and athleticism! I am a full-package, hardworking citizen ready to contribute!",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      3
+    ],
+    "messageID": 2
+  },
+  {
+    "Name": "D_3",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "Who wouldn't want me?",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      4
+    ],
+    "messageID": 3
+  },
+  {
+    "Name": "D_4",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "Somebody out there is destined to be my employer!",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      5
+    ],
+    "messageID": 4
+  },
+  {
+    "Name": "D_5",
+    "Character": "You",
+    "emotion": "concern",
+    "dialogue": "I have been beating myself way too much lately. I need to find some way to relax before tonight. And I will NOT be spending my time standing out in this heat for 5+ hours so some minimum-wage worker can tell me she doesn't have a job for me again.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      6
+    ],
+    "messageID": 5
+  },
+  {
+    "Name": "D_6",
+    "Character": "You",
+    "emotion": "concern",
+    "dialogue": "I should hit up Thran. Maybe they would be down to play a game or two. But first, I need to see if Nyra has something for me.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      7
+    ],
+    "messageID": 6
+  },
+  {
+    "Name": "D_7",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "(Boots up PC) Ah, perfect, you woke up on schedule",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [],
+    "messageID": 7
+  }
+]

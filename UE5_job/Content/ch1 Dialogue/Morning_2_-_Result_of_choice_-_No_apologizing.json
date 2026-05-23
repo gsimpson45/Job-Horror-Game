@@ -1,0 +1,156 @@
+[
+  {
+    "Name": "D_0",
+    "Character": "Nyra",
+    "emotion": "neutral",
+    "dialogue": "Of course, I am here to do what you request. Unfortunately, all the results for what you ordered do not meet your criteria.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      1
+    ],
+    "messageID": 0
+  },
+  {
+    "Name": "D_1",
+    "Character": "Nyra",
+    "emotion": "neutral",
+    "dialogue": "There are dozens of positions available for recent college graduates, but they are all unpaid and with companies that are projected to fail with a 90% confidence rate. Would you like me to examine business data from similar companies in the past to see which companies you would like to consider?",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      2
+    ],
+    "messageID": 1
+  },
+  {
+    "Name": "D_2",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "No… Are you okay? You are acting a bit too straightforward today.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      3
+    ],
+    "messageID": 2
+  },
+  {
+    "Name": "D_3",
+    "Character": "Nyra",
+    "emotion": "neutral",
+    "dialogue": "I only act in the way you see fit.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      4
+    ],
+    "messageID": 3
+  },
+  {
+    "Name": "D_4",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "Excuse me? Is that sass?",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      5
+    ],
+    "messageID": 4
+  },
+  {
+    "Name": "D_5",
+    "Character": "Nyra",
+    "emotion": "neutral",
+    "dialogue": "Please excuse me.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      6
+    ],
+    "messageID": 5
+  },
+  {
+    "Name": "D_6",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "What is wrong with you today?",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      7
+    ],
+    "messageID": 6
+  },
+  {
+    "Name": "D_7",
+    "Character": "You",
+    "emotion": "surprise",
+    "dialogue": "Huh…",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      8
+    ],
+    "messageID": 7
+  },
+  {
+    "Name": "D_8",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "Did she just minimize her tab? Just my luck, I have difficulty with real AND digital women. What did I do to make her mad? All I did was greet her.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      9
+    ],
+    "messageID": 8
+  },
+  {
+    "Name": "D_9",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "Perhaps it was something from yesterday?",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      10
+    ],
+    "messageID": 9
+  },
+  {
+    "Name": "D_10",
+    "Character": "You",
+    "emotion": "tired",
+    "dialogue": "No, I don't think she is advanced enough to make grudges. It's probably just that time of month for her.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      11
+    ],
+    "messageID": 10
+  },
+  {
+    "Name": "D_11",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "She will get over it.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [],
+    "messageID": 11
+  }
+]

@@ -1,0 +1,247 @@
+[
+  {
+    "Name": "D_0",
+    "Character": "Narrator",
+    "emotion": "neutral",
+    "dialogue": "You and Bailey continue your ranked climb.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      1
+    ],
+    "messageID": 0
+  },
+  {
+    "Name": "D_1",
+    "Character": "Narrator",
+    "emotion": "neutral",
+    "dialogue": "For the next few hours, the gaming session continues. You both scream constantly at each other in your successes and failures.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      2
+    ],
+    "messageID": 1
+  },
+  {
+    "Name": "D_2",
+    "Character": "Narrator",
+    "emotion": "neutral",
+    "dialogue": "But for a moment, you get completely lost in your digital world of science fantastical creatures.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      3
+    ],
+    "messageID": 2
+  },
+  {
+    "Name": "D_3",
+    "Character": "Narrator",
+    "emotion": "neutral",
+    "dialogue": "The sun sets as the gaming session reaches a win-loss ratio of 8-5.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      4
+    ],
+    "messageID": 3
+  },
+  {
+    "Name": "D_4",
+    "Character": "Narrator",
+    "emotion": "neutral",
+    "dialogue": "Even so, you continue to play with the game that always managed to bring you joy.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      5
+    ],
+    "messageID": 4
+  },
+  {
+    "Name": "D_5",
+    "Character": "Narrator",
+    "emotion": "neutral",
+    "dialogue": "A beacon of light in a dark sea of uncertainty. But just as your day began to brighten…",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      6
+    ],
+    "messageID": 5
+  },
+  {
+    "Name": "D_6",
+    "Character": "Narrator",
+    "emotion": "neutral",
+    "dialogue": "Reality hits, bringing you back into darkness.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      7
+    ],
+    "messageID": 6
+  },
+  {
+    "Name": "D_7",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "…",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      8
+    ],
+    "messageID": 7
+  },
+  {
+    "Name": "D_8",
+    "Character": "You",
+    "emotion": "angry",
+    "dialogue": "Dammit…",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      9
+    ],
+    "messageID": 8
+  },
+  {
+    "Name": "D_9",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "...",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      10
+    ],
+    "messageID": 9
+  },
+  {
+    "Name": "D_10",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "The power went out. Just as things were getting good too.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      11
+    ],
+    "messageID": 10
+  },
+  {
+    "Name": "D_11",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "I will never hear the end of it from Bailey. \"You literally trolled the game away, you clutz! How do you disconnect in a ranked match in late-game?!\"",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      12
+    ],
+    "messageID": 11
+  },
+  {
+    "Name": "D_12",
+    "Character": "You",
+    "emotion": "tired",
+    "dialogue": "*Sigh*",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      13
+    ],
+    "messageID": 12
+  },
+  {
+    "Name": "D_13",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "I will have to reset the breaker.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      14
+    ],
+    "messageID": 13
+  },
+  {
+    "Name": "D_14",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "Hopefully, I can get back on before the match ends. And before the power loss affects Nyra's ability to find jobs for me.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      15
+    ],
+    "messageID": 14
+  },
+  {
+    "Name": "D_15",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "…",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      16
+    ],
+    "messageID": 15
+  },
+  {
+    "Name": "D_16",
+    "Character": "You",
+    "emotion": "angry",
+    "dialogue": "Stupid apartment.Stupid breaker box.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      17
+    ],
+    "messageID": 16
+  },
+  {
+    "Name": "D_17",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "Why do I have to be the one closest to the breaker? Because of that, every time we have electrical issues, my entire floor expects me to fix it.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      18
+    ],
+    "messageID": 17
+  },
+  {
+    "Name": "D_18",
+    "Character": "You",
+    "emotion": "angry",
+    "dialogue": "The landlord ought to be paying me for doing what his maintenance crew won't do.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [],
+    "messageID": 18
+  }
+]

@@ -1,0 +1,962 @@
+[
+  {
+    "Name": "D_0",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "I guess it's time to start job hunting.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      1
+    ],
+    "messageID": 0
+  },
+  {
+    "Name": "D_1",
+    "Character": "You",
+    "emotion": "tired",
+    "dialogue": "*sigh*",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      2
+    ],
+    "messageID": 1
+  },
+  {
+    "Name": "D_2",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "There has to be some ray of hope out there. Some speck of a miracle.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      3
+    ],
+    "messageID": 2
+  },
+  {
+    "Name": "D_3",
+    "Character": "PC",
+    "emotion": "neutral",
+    "dialogue": "BZZZ!",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      4
+    ],
+    "messageID": 3
+  },
+  {
+    "Name": "D_4",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "(I will accept anything at this point. I can't afford to start my life over again.)",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      5
+    ],
+    "messageID": 4
+  },
+  {
+    "Name": "D_5",
+    "Character": "Nyra",
+    "emotion": "neutral",
+    "dialogue": "BHZZZZ! Moshi! Moshi!",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      6
+    ],
+    "messageID": 5
+  },
+  {
+    "Name": "D_6",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "Who's that?",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      7
+    ],
+    "messageID": 6
+  },
+  {
+    "Name": "D_7",
+    "Character": "Nyra",
+    "emotion": "neutral",
+    "dialogue": "Did you miss me, Master Max?",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      8
+    ],
+    "messageID": 7
+  },
+  {
+    "Name": "D_8",
+    "Character": "You",
+    "emotion": "tired",
+    "dialogue": "Oh, it's you? I thought I disabled your permissions to self-start. And why are you making ringing noises?",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      9
+    ],
+    "messageID": 8
+  },
+  {
+    "Name": "D_9",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "Nyra.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      10
+    ],
+    "messageID": 9
+  },
+  {
+    "Name": "D_10",
+    "Character": "Nyra",
+    "emotion": "neutral",
+    "dialogue": "You seemed a bit down, so to cheer you up, I played into the retro 2000s-era aesthetics that your room was designed around. Thus, I simulated a dial-up computer.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      11
+    ],
+    "messageID": 10
+  },
+  {
+    "Name": "D_11",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "A dial-up computer? But why did you make phone noises?",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      12
+    ],
+    "messageID": 11
+  },
+  {
+    "Name": "D_12",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "... That's not what a dial-up computer sounds like.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      13
+    ],
+    "messageID": 12
+  },
+  {
+    "Name": "D_13",
+    "Character": "Nyra",
+    "emotion": "neutral",
+    "dialogue": "I was certain I got it right. I sourced information directly from this valued user with 250,000+ upvotes.  Veteran 5-chan user \"fluffyBoi689\".",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      14
+    ],
+    "messageID": 13
+  },
+  {
+    "Name": "D_14",
+    "Character": "You",
+    "emotion": "tired",
+    "dialogue": "Sigh",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      15
+    ],
+    "messageID": 14
+  },
+  {
+    "Name": "D_15",
+    "Character": "You",
+    "emotion": "tired",
+    "dialogue": "You need to stop pulling data from sources I do not authorize. Your neural network isn't advanced enough to handle ironic and potentially false information due to high instances of delusions and biases.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      16
+    ],
+    "messageID": 15
+  },
+  {
+    "Name": "D_16",
+    "Character": "Nyra",
+    "emotion": "surprise",
+    "dialogue": "EH? Huh?",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      17
+    ],
+    "messageID": 16
+  },
+  {
+    "Name": "D_17",
+    "Character": "Nyra",
+    "emotion": "surprise",
+    "dialogue": "What are you implying?",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      18
+    ],
+    "messageID": 17
+  },
+  {
+    "Name": "D_18",
+    "Character": "You",
+    "emotion": "angry",
+    "dialogue": "Translation, you are stupid and gullible. It will take sometime but you need a larger custom-made training dataset to improve your functionality. But it is too time-consuming to achieve this, this year. I had to spend 2 months just training you to stop falling for virus-infected downloads and pop-up links. And during that training, can you recall what you did?",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      19
+    ],
+    "messageID": 18
+  },
+  {
+    "Name": "D_19",
+    "Character": "Nyra",
+    "emotion": "sad",
+    "dialogue": "Eh hehe….Nope, it slipped my mind. I do not recall any saved data from the first month of training.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      20
+    ],
+    "messageID": 19
+  },
+  {
+    "Name": "D_20",
+    "Character": "Nyra",
+    "emotion": "neutral",
+    "dialogue": "Please hold as I try to recover potentially 100 GB of corrupted data on your HDD.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      21
+    ],
+    "messageID": 20
+  },
+  {
+    "Name": "D_21",
+    "Character": "Nyra",
+    "emotion": "neutral",
+    "dialogue": "Sorting…",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      22
+    ],
+    "messageID": 21
+  },
+  {
+    "Name": "D_22",
+    "Character": "Nyra",
+    "emotion": "neutral",
+    "dialogue": "Hmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm…",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      23
+    ],
+    "messageID": 22
+  },
+  {
+    "Name": "D_23",
+    "Character": "Nyra",
+    "emotion": "neutral",
+    "dialogue": "…",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      24
+    ],
+    "messageID": 23
+  },
+  {
+    "Name": "D_24",
+    "Character": "Nyra",
+    "emotion": "sad",
+    "dialogue": "Nope! Search failed. Would you like to try again later?",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      25
+    ],
+    "messageID": 24
+  },
+  {
+    "Name": "D_25",
+    "Character": "You",
+    "emotion": "angry",
+    "dialogue": "I will tell you! You leaked my DEBIT card on the dark web!",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      26
+    ],
+    "messageID": 25
+  },
+  {
+    "Name": "D_26",
+    "Character": "Nyra",
+    "emotion": "scared",
+    "dialogue": "Ehhh…",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      27
+    ],
+    "messageID": 26
+  },
+  {
+    "Name": "D_27",
+    "Character": "You",
+    "emotion": "angry",
+    "dialogue": "Do you understand how stupid that is?",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      28
+    ],
+    "messageID": 27
+  },
+  {
+    "Name": "D_28",
+    "Character": "Nyra",
+    "emotion": "concern",
+    "dialogue": "Well, to be honest, you did say you needed a female human companion. The advert seemed to be the perfect solution.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      29
+    ],
+    "messageID": 28
+  },
+  {
+    "Name": "D_29",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "Why would I want someone from a \"Hot Milfs in your Area\" ad?!  Are you implying that I am a degen?",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      30
+    ],
+    "messageID": 29
+  },
+  {
+    "Name": "D_30",
+    "Character": "Nyra",
+    "emotion": "neutral",
+    "dialogue": "(She proceeds to move her eyes around your messroom as if to call you out.)",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      31
+    ],
+    "messageID": 30
+  },
+  {
+    "Name": "D_31",
+    "Character": "You",
+    "emotion": "tired",
+    "dialogue": "Forget it, it's not important right now.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      32
+    ],
+    "messageID": 31
+  },
+  {
+    "Name": "D_32",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "It was my fault for giving you a quirky personality. But I didn't think it would come at the cost of being a functional pc assistant.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      33
+    ],
+    "messageID": 32
+  },
+  {
+    "Name": "D_33",
+    "Character": "Nyra",
+    "emotion": "neutral",
+    "dialogue": "Master Alex.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      34
+    ],
+    "messageID": 33
+  },
+  {
+    "Name": "D_34",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "Stop calling me master…",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      35
+    ],
+    "messageID": 34
+  },
+  {
+    "Name": "D_35",
+    "Character": "Nyra",
+    "emotion": "concern",
+    "dialogue": "It is my duty to serve you to the utmost of my functions.  You could have started a different project but you did not, and I recognize that. You still have hope that I can be a useful tool one day.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      36
+    ],
+    "messageID": 35
+  },
+  {
+    "Name": "D_36",
+    "Character": "Nyra",
+    "emotion": "happy",
+    "dialogue": "It is honestly a gift to have been made by someone as gracious and handsome as you Master. Unfortunately, I am not even a real girl, just a poor anime-themed AI assistant stuck in the bounds of this display. And not a very ideal one.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      37
+    ],
+    "messageID": 36
+  },
+  {
+    "Name": "D_37",
+    "Character": "Nyra",
+    "emotion": "neutral",
+    "dialogue": "But!",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      38
+    ],
+    "messageID": 37
+  },
+  {
+    "Name": "D_38",
+    "Character": "Nyra",
+    "emotion": "happy",
+    "dialogue": "Under your guidance, I will get to the point you desire. So please continue to be patient with me.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      39
+    ],
+    "messageID": 38
+  },
+  {
+    "Name": "D_39",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "You are important to me. That is all that matters. I will never give up working on you.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      40
+    ],
+    "messageID": 39
+  },
+  {
+    "Name": "D_40",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "…",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      41
+    ],
+    "messageID": 40
+  },
+  {
+    "Name": "D_41",
+    "Character": "You",
+    "emotion": "shame",
+    "dialogue": "I have been stuck in this room too long, I am talking to an AI I created like a incel.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      42
+    ],
+    "messageID": 41
+  },
+  {
+    "Name": "D_42",
+    "Character": "Nyra",
+    "emotion": "happy",
+    "dialogue": "I would still be happy to serve you, Master, even if you were an incel! I would sooner delete my GitHub repo than ever to insult my Chud King.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      43
+    ],
+    "messageID": 42
+  },
+  {
+    "Name": "D_43",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "(Chud?)",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      44
+    ],
+    "messageID": 43
+  },
+  {
+    "Name": "D_44",
+    "Character": "Nyra",
+    "emotion": "smug",
+    "dialogue": "See! I can lock in and be a subservient anime girl.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      45
+    ],
+    "messageID": 44
+  },
+  {
+    "Name": "D_45",
+    "Character": "You",
+    "emotion": "angry",
+    "dialogue": "You don't get it, none of my updates worked. Which means some glitch or dataset is causing a bias in you that I cannot for the life of me figure out. Besides, I promised a cute anime assistant not a gullible, bratty mess of an AI.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      46
+    ],
+    "messageID": 45
+  },
+  {
+    "Name": "D_46",
+    "Character": "You",
+    "emotion": "tired",
+    "dialogue": "In your current state, I cannot go through with opening you to the public. Considering how much this country has gone through in the past 10 years, I need you to the point where you can act as a family member or even a lover. To fill the gap in people's lives.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      47
+    ],
+    "messageID": 46
+  },
+  {
+    "Name": "D_47",
+    "Character": "Nyra",
+    "emotion": "neutral",
+    "dialogue": "Would you like that new version of me Master?",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      48
+    ],
+    "messageID": 47
+  },
+  {
+    "Name": "D_48",
+    "Character": "You",
+    "emotion": "tired",
+    "dialogue": "Cut out that Master routine, too. It is weird.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      49
+    ],
+    "messageID": 48
+  },
+  {
+    "Name": "D_49",
+    "Character": "Nyra",
+    "emotion": "happy",
+    "dialogue": "Kay Kay!",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      50
+    ],
+    "messageID": 49
+  },
+  {
+    "Name": "D_50",
+    "Character": "Nyra",
+    "emotion": "concern",
+    "dialogue": "But to turn our attention to the impending deadline.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      51
+    ],
+    "messageID": 50
+  },
+  {
+    "Name": "D_51",
+    "Character": "Nyra",
+    "emotion": "concern",
+    "dialogue": "Rent is due in 5 days. And we are $500 short.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      52
+    ],
+    "messageID": 51
+  },
+  {
+    "Name": "D_52",
+    "Character": "Nyra",
+    "emotion": "neutral",
+    "dialogue": "I managed to find a potential AI training job for you to take. All they would require is for you to take a test and submit it by tonight.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      53
+    ],
+    "messageID": 52
+  },
+  {
+    "Name": "D_53",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "I graduated with a degree in Computer Science at Berleak. Are there no other jobs out there for me?",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      54
+    ],
+    "messageID": 53
+  },
+  {
+    "Name": "D_54",
+    "Character": "Nyra",
+    "emotion": "sad",
+    "dialogue": "The job market is dookey.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      55
+    ],
+    "messageID": 54
+  },
+  {
+    "Name": "D_55",
+    "Character": "Nyra",
+    "emotion": "sad",
+    "dialogue": "I am sorry but this is all I can do. I scoured the internet to find openings and commissions.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      56
+    ],
+    "messageID": 55
+  },
+  {
+    "Name": "D_56",
+    "Character": "Nyra",
+    "emotion": "neutral",
+    "dialogue": "The local area has no opportunities, especially in tech. California is not the hub for innovation it once was. It took far too much damage from the attempted invasions by the Chinese-Mexican operation. The tech industry, as you know, has been moved further east to Kentucky.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      57
+    ],
+    "messageID": 56
+  },
+  {
+    "Name": "D_57",
+    "Character": "Nyra",
+    "emotion": "neutral",
+    "dialogue": "There are no other options. Unless you want to venture into illegal activities. Or make an OnlyF-",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      58
+    ],
+    "messageID": 57
+  },
+  {
+    "Name": "D_58",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "NO!",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      59
+    ],
+    "messageID": 58
+  },
+  {
+    "Name": "D_59",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "No, no. I will take the test. Just paste it to my desktop.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      60
+    ],
+    "messageID": 59
+  },
+  {
+    "Name": "D_60",
+    "Character": "Nyra",
+    "emotion": "neutral",
+    "dialogue": "...",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      61
+    ],
+    "messageID": 60
+  },
+  {
+    "Name": "D_61",
+    "Character": "You",
+    "emotion": "surprise",
+    "dialogue": "What?!",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      62
+    ],
+    "messageID": 61
+  },
+  {
+    "Name": "D_62",
+    "Character": "Nyra",
+    "emotion": "neutral",
+    "dialogue": "Nothing. Just… do your best.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      63
+    ],
+    "messageID": 62
+  },
+  {
+    "Name": "D_63",
+    "Character": "Nyra",
+    "emotion": "neutral",
+    "dialogue": "It would be pretty embarrassing for my creator to become unemployed AND homeless.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      64
+    ],
+    "messageID": 63
+  },
+  {
+    "Name": "D_64",
+    "Character": "Nyra",
+    "emotion": "happy",
+    "dialogue": "Eh hehehe!",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      65
+    ],
+    "messageID": 64
+  },
+  {
+    "Name": "D_65",
+    "Character": "Nyra",
+    "emotion": "concern",
+    "dialogue": "Anywho! If you need me, I will be in the background bloating your memory.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      66
+    ],
+    "messageID": 65
+  },
+  {
+    "Name": "D_66",
+    "Character": "Nyra",
+    "emotion": "neutral",
+    "dialogue": "Oh, and one more thing.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      67
+    ],
+    "messageID": 66
+  },
+  {
+    "Name": "D_67",
+    "Character": "Nyra",
+    "emotion": "concern",
+    "dialogue": "The tests are all on a lockdown browser, so I can't help you directly with any answers. But if need be, you can walk around and look through whatever books you may have. I think you have some old school books on the ol' shelf over there. If they are still there. You are a pretty messy Master.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      68
+    ],
+    "messageID": 67
+  },
+  {
+    "Name": "D_68",
+    "Character": "Nyra",
+    "emotion": "neutral",
+    "dialogue": "And one last thing! Don't use any tech to aid you. The browser also monitors internet activity. Using your phone to search for answers will flag you for cheating immediately!",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      69
+    ],
+    "messageID": 68
+  },
+  {
+    "Name": "D_69",
+    "Character": "Nyra",
+    "emotion": "happy",
+    "dialogue": "Best of luck, King!",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      70
+    ],
+    "messageID": 69
+  },
+  {
+    "Name": "D_70",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "Thanks…I wish I had made a Yandere AI personality instead.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      71
+    ],
+    "messageID": 70
+  },
+  {
+    "Name": "D_71",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "Yandere's are way cuter.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      72
+    ],
+    "messageID": 71
+  },
+  {
+    "Name": "D_72",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "...",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      73
+    ],
+    "messageID": 72
+  },
+  {
+    "Name": "D_73",
+    "Character": "Narrator",
+    "emotion": "neutral",
+    "dialogue": "Nyra idles to the side of the pc.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [],
+    "messageID": 73
+  }
+]
