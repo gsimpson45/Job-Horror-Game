@@ -1,0 +1,6 @@
+2026/06/07-17:50:37.043 33d4 Creating DB C:/Users/gsimp/OneDrive/Desktop/Job Horror/Job-Horror-Game/UE5_job/Saved/webcache_4430\IndexedDB\https_www.paypal.com_0.indexeddb.leveldb since it was missing.
+2026/06/07-17:50:37.047 33d4 Reusing MANIFEST C:/Users/gsimp/OneDrive/Desktop/Job Horror/Job-Horror-Game/UE5_job/Saved/webcache_4430\IndexedDB\https_www.paypal.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/06/07-17:52:29.329 8fbc Level-0 table #5: started
+2026/06/07-17:52:29.331 8fbc Level-0 table #5: 9075 bytes OK
+2026/06/07-17:52:29.334 8fbc Delete type=0 #3
+2026/06/07-17:52:29.334 8fbc Manual compaction at level-0 from (begin) .. (end); will stop at (end)

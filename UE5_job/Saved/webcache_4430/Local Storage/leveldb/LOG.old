@@ -1,3 +1,57 @@
-2026/03/22-11:50:55.627 f2e4 Reusing MANIFEST C:/Users/gsimp/OneDrive/Desktop/Job Horror/Job-Horror-Game/UE5_job/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/03/22-11:50:55.628 f2e4 Recovering log #3
-2026/03/22-11:50:55.629 f2e4 Reusing old log C:/Users/gsimp/OneDrive/Desktop/Job Horror/Job-Horror-Game/UE5_job/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2026/06/01-16:20:21.210 e9d4 Reusing MANIFEST C:/Users/gsimp/OneDrive/Desktop/Job Horror/Job-Horror-Game/UE5_job/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/06/01-16:20:21.212 e9d4 Recovering log #3
+2026/06/01-16:20:21.212 e9d4 Reusing old log C:/Users/gsimp/OneDrive/Desktop/Job Horror/Job-Horror-Game/UE5_job/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2026/06/01-17:29:35.406 dab0 Level-0 table #5: started
+2026/06/01-17:29:35.414 dab0 Level-0 table #5: 65479 bytes OK
+2026/06/01-17:29:35.417 dab0 Delete type=0 #3
+2026/06/01-17:34:15.152 d638 Level-0 table #7: started
+2026/06/01-17:34:15.158 d638 Level-0 table #7: 70238 bytes OK
+2026/06/01-17:34:15.160 d638 Delete type=0 #4
+2026/06/01-17:40:26.682 5b24 Level-0 table #9: started
+2026/06/01-17:40:26.684 5b24 Level-0 table #9: 64458 bytes OK
+2026/06/01-17:40:26.685 5b24 Delete type=0 #6
+2026/06/01-17:41:52.808 d638 Level-0 table #11: started
+2026/06/01-17:41:52.811 d638 Level-0 table #11: 64670 bytes OK
+2026/06/01-17:41:52.813 d638 Delete type=0 #8
+2026/06/01-17:46:49.702 4af4 Level-0 table #13: started
+2026/06/01-17:46:49.706 4af4 Level-0 table #13: 73070 bytes OK
+2026/06/01-17:46:49.709 4af4 Delete type=0 #10
+2026/06/01-17:48:42.630 ab10 Level-0 table #15: started
+2026/06/01-17:48:42.634 ab10 Level-0 table #15: 62868 bytes OK
+2026/06/01-17:48:42.636 ab10 Delete type=0 #12
+2026/06/01-17:48:42.637 ab10 Compacting 4@0 + 1@1 files
+2026/06/01-17:48:42.640 ab10 Generated table #16@0: 3 keys, 16174 bytes
+2026/06/01-17:48:42.640 ab10 Compacted 4@0 + 1@1 files => 16174 bytes
+2026/06/01-17:48:42.642 ab10 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/06/01-17:48:42.643 ab10 Delete type=2 #7
+2026/06/01-17:48:42.643 ab10 Delete type=2 #9
+2026/06/01-17:48:42.643 ab10 Delete type=2 #11
+2026/06/01-17:48:42.643 ab10 Delete type=2 #13
+2026/06/01-17:48:42.643 ab10 Delete type=2 #15
+2026/06/01-17:49:58.633 4af4 Level-0 table #18: started
+2026/06/01-17:49:58.645 4af4 Level-0 table #18: 69936 bytes OK
+2026/06/01-17:49:58.647 4af4 Delete type=0 #14
+2026/06/01-17:54:14.769 10c8c Level-0 table #20: started
+2026/06/01-17:54:14.773 10c8c Level-0 table #20: 76298 bytes OK
+2026/06/01-17:54:14.775 10c8c Delete type=0 #17
+2026/06/01-17:57:22.650 36a8 Level-0 table #22: started
+2026/06/01-17:57:22.659 36a8 Level-0 table #22: 62946 bytes OK
+2026/06/01-17:57:22.702 36a8 Delete type=0 #19
+2026/06/01-17:58:21.342 10c8c Level-0 table #24: started
+2026/06/01-17:58:21.347 10c8c Level-0 table #24: 65762 bytes OK
+2026/06/01-17:58:21.350 10c8c Delete type=0 #21
+2026/06/01-17:58:21.351 10c8c Compacting 4@0 + 1@1 files
+2026/06/01-17:58:21.355 10c8c Generated table #25@0: 3 keys, 22273 bytes
+2026/06/01-17:58:21.355 10c8c Compacted 4@0 + 1@1 files => 22273 bytes
+2026/06/01-17:58:21.356 10c8c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/06/01-17:58:21.358 10c8c Delete type=2 #16
+2026/06/01-17:58:21.358 10c8c Delete type=2 #18
+2026/06/01-17:58:21.358 10c8c Delete type=2 #20
+2026/06/01-17:58:21.358 10c8c Delete type=2 #22
+2026/06/01-17:58:21.358 10c8c Delete type=2 #24
+2026/06/01-18:09:22.813 2b00 Level-0 table #27: started
+2026/06/01-18:09:22.817 2b00 Level-0 table #27: 68425 bytes OK
+2026/06/01-18:09:22.820 2b00 Delete type=0 #23
+2026/06/01-18:09:48.607 10c8c Level-0 table #29: started
+2026/06/01-18:09:48.612 10c8c Level-0 table #29: 71422 bytes OK
+2026/06/01-18:09:48.615 10c8c Delete type=0 #26

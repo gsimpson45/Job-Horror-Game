@@ -1,0 +1,15 @@
+2026/06/07-17:53:53.790 a9d8 Reusing MANIFEST C:/Users/gsimp/OneDrive/Desktop/Job Horror/Job-Horror-Game/UE5_job/Saved/webcache_4430\IndexedDB\https_www.paypal.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/06/07-17:53:53.790 a9d8 Recovering log #4
+2026/06/07-17:53:53.791 a9d8 Reusing old log C:/Users/gsimp/OneDrive/Desktop/Job Horror/Job-Horror-Game/UE5_job/Saved/webcache_4430\IndexedDB\https_www.paypal.com_0.indexeddb.leveldb/000004.log 
+2026/06/07-17:57:10.619 82dc Level-0 table #8: started
+2026/06/07-17:57:10.622 82dc Level-0 table #8: 3185 bytes OK
+2026/06/07-17:57:10.624 82dc Delete type=0 #4
+2026/06/07-17:57:10.624 82dc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/06/07-17:57:10.624 82dc Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x1f\x01\x04\x00d\x00_\x00i\x00d\x00\x01\x04\x00d\x00_\x00i\x00d' @ 760 : 1
+2026/06/07-17:57:10.624 82dc Compacting 1@1 + 1@2 files
+2026/06/07-17:57:10.626 82dc Generated table #9@1: 54 keys, 1405 bytes
+2026/06/07-17:57:10.626 82dc Compacted 1@1 + 1@2 files => 1405 bytes
+2026/06/07-17:57:10.627 82dc compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/06/07-17:57:10.628 82dc Delete type=2 #5
+2026/06/07-17:57:10.628 82dc Delete type=2 #8
+2026/06/07-17:57:10.630 82dc Manual compaction at level-1 from '\x00\x02\x01\x1f\x01\x04\x00d\x00_\x00i\x00d\x00\x01\x04\x00d\x00_\x00i\x00d' @ 760 : 1 .. (end); will stop at (end)
