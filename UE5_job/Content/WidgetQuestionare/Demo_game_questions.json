@@ -1,0 +1,391 @@
+[
+  {
+    "Name": "Q1",
+    "question": "Welcome to the skills test for becoming an AI trainer. Here, you will take a personality and skill check to see if you are a fit for our position. Click next when you are ready to begin.",
+    "choice": [
+      "Next"
+    ],
+    "answerIndex": 0,
+    "typeSpeed": 1.0,
+    "TriggerEvent": "none",
+    "questionPNG": "/Game/Sprites/black_tile_of_doom.black_tile_of_doom"
+  },
+  {
+    "Name": "Q2",
+    "question": "It will be noted again that material from this test must not be shared. Those who share without proper authorization will be tracked down and banned from applying to Vagra or using any Vagra services.",
+    "choice": [
+      "Next"
+    ],
+    "answerIndex": 0,
+    "typeSpeed": 0.5,
+    "TriggerEvent": "none",
+    "questionPNG": "/Game/Sprites/black_tile_of_doom.black_tile_of_doom"
+  },
+  {
+    "Name": "Q3",
+    "question": "Please answer honestly and do not use outside resources. To take this test, you must also agree to additional terms: You must allow for Vagra Tech Inc to analyze your computer activities to prevent cheating. You must allow access to your router so that internet activity can be monitored. You must keep your windows clear so our robot proctors can visit you. You may not get up from your seat unless the test is over. If you are caught engaging in dishonest behavior, you will be subject to an investigation and banned from applying to Vagra Technologies. Do you agree to these terms?",
+    "choice": [
+      "Yes",
+      "No"
+    ],
+    "answerIndex": 0,
+    "typeSpeed": 0.3,
+    "TriggerEvent": "none",
+    "questionPNG": "/Game/Sprites/black_tile_of_doom.black_tile_of_doom"
+  },
+  {
+    "Name": "Q4",
+    "question": "If you are unable to pass the test, due to dishonesty or a low score, you will not be refunded the nationally mandated $50 job application fee. Do you agree to these terms?",
+    "choice": [
+      "Yes",
+      "No"
+    ],
+    "answerIndex": 0,
+    "typeSpeed": 0.6,
+    "TriggerEvent": "none",
+    "questionPNG": "/Game/Sprites/black_tile_of_doom.black_tile_of_doom"
+  },
+  {
+    "Name": "Q5",
+    "question": "Great! You may begin with the knowledge test.",
+    "choice": [
+      "Next"
+    ],
+    "answerIndex": 0,
+    "typeSpeed": 1.0,
+    "TriggerEvent": "none",
+    "questionPNG": "/Game/Sprites/black_tile_of_doom.black_tile_of_doom"
+  },
+  {
+    "Name": "Q6",
+    "question": "What is the purpose of training and testing AI?",
+    "choice": [
+      "To make AI physically stronger",
+      "To help AI become more accurate and find inaccuracies",
+      "To make AI usable by foreign enemies",
+      "To make money and pay bills",
+      "So AI can grow to become a friend"
+    ],
+    "answerIndex": 1,
+    "typeSpeed": 1.0,
+    "TriggerEvent": "none",
+    "questionPNG": "/Game/Sprites/black_tile_of_doom.black_tile_of_doom"
+  },
+  {
+    "Name": "Q7",
+    "question": "Vagra Tech specializes in making AI for autonomous humanoid robots. What types of tasks will you most likely encounter as an AI trainer?",
+    "choice": [
+      "Fixing machines",
+      "Making machines",
+      "Eating machines",
+      "Testing machine accuracy"
+    ],
+    "answerIndex": 3,
+    "typeSpeed": 1.0,
+    "TriggerEvent": "none",
+    "questionPNG": "/Game/Sprites/black_tile_of_doom.black_tile_of_doom"
+  },
+  {
+    "Name": "Q8",
+    "question": "Vagra Tech specializes in defense technology more than civilian projects.",
+    "choice": [
+      "False - Vagra Technologies has a mission to promote peace through its autonomous projects to benefit society.",
+      "True"
+    ],
+    "answerIndex": 0,
+    "typeSpeed": 0.7,
+    "TriggerEvent": "none",
+    "questionPNG": "/Game/Sprites/black_tile_of_doom.black_tile_of_doom"
+  },
+  {
+    "Name": "Q9",
+    "question": "What is the hourly pay for an AI trainer in the current year (2067)?",
+    "choice": [
+      "$14",
+      "$3",
+      "$5",
+      "$6"
+    ],
+    "answerIndex": 0,
+    "typeSpeed": 0.7,
+    "TriggerEvent": "none",
+    "questionPNG": "/Game/Sprites/black_tile_of_doom.black_tile_of_doom"
+  },
+  {
+    "Name": "Q10",
+    "question": "Consider the following scenario. You are tasked with testing Vagra's medical chatbot regarding its accuracy in predicting if an inquiring patient can pay for a medical procedure. How do you check if the AI is accurately identifying the correct people?",
+    "choice": [
+      "Ask another AI to complete a similar task",
+      "Try the test on yourself",
+      "Ask a friend",
+      "Analyze the predicted data along with known data"
+    ],
+    "answerIndex": 3,
+    "typeSpeed": 1.0,
+    "TriggerEvent": "none",
+    "questionPNG": "/Game/Sprites/black_tile_of_doom.black_tile_of_doom"
+  },
+  {
+    "Name": "Q11",
+    "question": "What should you do if you suspect the AI you are training is going against the robotics laws?",
+    "choice": [
+      "Contact Vagra support immediately",
+      "Call the police",
+      "Contact family",
+      "Remain silent and try to fix it yourself"
+    ],
+    "answerIndex": 0,
+    "typeSpeed": 0.7,
+    "TriggerEvent": "none",
+    "questionPNG": "/Game/Sprites/black_tile_of_doom.black_tile_of_doom"
+  },
+  {
+    "Name": "Q12",
+    "question": "If you believe the AI is attempting to take unauthorized actions, such as communicating with non-Vagra employees, hacking other computers, accessing the public internet, or demonstrating a change in tone, what should you do?",
+    "choice": [
+      "Contact Vagra support",
+      "Call the police",
+      "Unplug your computer and contact support",
+      "Hide"
+    ],
+    "answerIndex": 2,
+    "typeSpeed": 0.5,
+    "TriggerEvent": "none",
+    "questionPNG": "/Game/Sprites/black_tile_of_doom.black_tile_of_doom"
+  },
+  {
+    "Name": "Q13",
+    "question": "Statistically, what is the chance of a Vagra tech product posing an actual threat to an AI trainer?",
+    "choice": [
+      "10%",
+      "1%",
+      "0.1%",
+      "0%"
+    ],
+    "answerIndex": 2,
+    "typeSpeed": 0.4,
+    "TriggerEvent": "none",
+    "questionPNG": "/Game/Sprites/black_tile_of_doom.black_tile_of_doom"
+  },
+  {
+    "Name": "Q14",
+    "question": "Thank you for taking the skills check test. Here is the first question for the personality test. For the next 10 questions, you will rate how true a statement is based on the options presented.",
+    "choice": [
+      "Next"
+    ],
+    "answerIndex": 0,
+    "typeSpeed": 1.0,
+    "TriggerEvent": "none",
+    "questionPNG": "/Game/Sprites/black_tile_of_doom.black_tile_of_doom"
+  },
+  {
+    "Name": "Q15",
+    "question": "I consider myself a trustworthy person while in positions of power.",
+    "choice": [
+      "Agree",
+      "Somewhat agree",
+      "Neutral",
+      "Somewhat disagree",
+      "Disagree"
+    ],
+    "answerIndex": -1,
+    "typeSpeed": 1.0,
+    "TriggerEvent": "none",
+    "questionPNG": "/Game/Sprites/black_tile_of_doom.black_tile_of_doom"
+  },
+  {
+    "Name": "Q16",
+    "question": "I get frustrated easily by situations out of my control.",
+    "choice": [
+      "Agree",
+      "Somewhat agree",
+      "Neutral",
+      "Somewhat disagree",
+      "Disagree"
+    ],
+    "answerIndex": -1,
+    "typeSpeed": 1.0,
+    "TriggerEvent": "none",
+    "questionPNG": "/Game/Sprites/black_tile_of_doom.black_tile_of_doom"
+  },
+  {
+    "Name": "Q17",
+    "question": "I consider myself a rule follower, even when others break the rules for their own benefit.",
+    "choice": [
+      "Agree",
+      "Somewhat agree",
+      "Neutral",
+      "Somewhat disagree",
+      "Disagree"
+    ],
+    "answerIndex": -1,
+    "typeSpeed": 1.0,
+    "TriggerEvent": "none",
+    "questionPNG": "/Game/Sprites/black_tile_of_doom.black_tile_of_doom"
+  },
+  {
+    "Name": "Q18",
+    "question": "I am proud to be a citizen of the United States.",
+    "choice": [
+      "Agree",
+      "Somewhat agree",
+      "Neutral",
+      "Somewhat disagree",
+      "Disagree"
+    ],
+    "answerIndex": -1,
+    "typeSpeed": 1.0,
+    "TriggerEvent": "none",
+    "questionPNG": "/Game/Sprites/black_tile_of_doom.black_tile_of_doom"
+  },
+  {
+    "Name": "Q19",
+    "question": "I am scared of autonomous machines after they were used for the defence of the United States.",
+    "choice": [
+      "Agree",
+      "Somewhat agree",
+      "Neutral",
+      "Somewhat disagree",
+      "Disagree"
+    ],
+    "answerIndex": -1,
+    "typeSpeed": 0.7,
+    "TriggerEvent": "none",
+    "questionPNG": "/Game/Sprites/black_tile_of_doom.black_tile_of_doom"
+  },
+  {
+    "Name": "Q20",
+    "question": "I do not like the idea of being monitored by a person or by electronic devices.",
+    "choice": [
+      "Agree",
+      "Somewhat agree",
+      "Neutral",
+      "Somewhat disagree",
+      "Disagree"
+    ],
+    "answerIndex": -1,
+    "typeSpeed": 0.5,
+    "TriggerEvent": "none",
+    "questionPNG": "/Game/Sprites/black_tile_of_doom.black_tile_of_doom"
+  },
+  {
+    "Name": "Q21",
+    "question": "I feel like I am being watched constantly, even when I am alone.",
+    "choice": [
+      "Agree",
+      "Somewhat agree",
+      "Neutral",
+      "Somewhat disagree",
+      "Disagree"
+    ],
+    "answerIndex": -1,
+    "typeSpeed": 0.3,
+    "TriggerEvent": "none",
+    "questionPNG": "/Game/Sprites/black_tile_of_doom.black_tile_of_doom"
+  },
+  {
+    "Name": "Q22",
+    "question": "I consider myself to be a social person and often go outside to explore new activities.",
+    "choice": [
+      "Agree",
+      "Somewhat agree",
+      "Neutral",
+      "Somewhat disagree",
+      "Disagree"
+    ],
+    "answerIndex": -1,
+    "typeSpeed": 1.0,
+    "TriggerEvent": "none",
+    "questionPNG": "/Game/Sprites/black_tile_of_doom.black_tile_of_doom"
+  },
+  {
+    "Name": "Q23",
+    "question": "I am great at developing close relationships with a few coworkers.",
+    "choice": [
+      "Agree",
+      "Somewhat agree",
+      "Neutral",
+      "Somewhat disagree",
+      "Disagree"
+    ],
+    "answerIndex": -1,
+    "typeSpeed": 1.0,
+    "TriggerEvent": "none",
+    "questionPNG": "/Game/Sprites/black_tile_of_doom.black_tile_of_doom"
+  },
+  {
+    "Name": "Q24",
+    "question": "I would be worried that people would forget about me if I stopped communicating with them.",
+    "choice": [
+      "Agree",
+      "Somewhat agree",
+      "Neutral",
+      "Somewhat disagree",
+      "Disagree"
+    ],
+    "answerIndex": -1,
+    "typeSpeed": 0.6,
+    "TriggerEvent": "none",
+    "questionPNG": "/Game/Sprites/black_tile_of_doom.black_tile_of_doom"
+  },
+  {
+    "Name": "Q25",
+    "question": "I feel alone j[sfsP#%!@[d0fw[f0jewofwfHDFP#%!@##@",
+    "choice": [
+      "Agree",
+      "Somewhat agree",
+      "Neutral",
+      "Somewhat disagree",
+      "Disawwwwwwf3wwwwwwwwee"
+    ],
+    "answerIndex": -1,
+    "typeSpeed": 0.2,
+    "TriggerEvent": "glitch",
+    "questionPNG": "/Game/Sprites/black_tile_of_doom.black_tile_of_doom"
+  },
+  {
+    "Name": "Q26",
+    "question": "I resac yb7once",
+    "choice": [
+      "Aee",
+      "Sowhat agree",
+      "Neutl",
+      "Sewhat disagree",
+      "Disree"
+    ],
+    "answerIndex": -1,
+    "typeSpeed": 0.15,
+    "TriggerEvent": "glitch",
+    "questionPNG": "/Game/Sprites/black_tile_of_doom.black_tile_of_doom"
+  },
+  {
+    "Name": "Q27",
+    "question": "feofwfidfshift-> 7lsk dalone",
+    "choice": [
+      "Aree",
+      "Sohat agree",
+      "utral",
+      "Somhat sagree",
+      "Disree"
+    ],
+    "answerIndex": -1,
+    "typeSpeed": 0.1,
+    "TriggerEvent": "glitch",
+    "questionPNG": "/Game/Sprites/black_tile_of_doom.black_tile_of_doom"
+  },
+  {
+    "Name": "Q28",
+    "question": "fvb hylua hsvul LYYVY LYYVY",
+    "choice": [
+      "Hnyll",
+      "Zvtldoha hnyll",
+      "Ulbayhs",
+      "Zvtldoha kpzhnyll",
+      "Kpzhnyll"
+    ],
+    "answerIndex": -1,
+    "typeSpeed": 0.05,
+    "TriggerEvent": "glitch",
+    "questionPNG": "/Game/Sprites/black_tile_of_doom.black_tile_of_doom"
+  }
+]
