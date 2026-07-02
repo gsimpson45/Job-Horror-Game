@@ -1,0 +1,102 @@
+[+] Containers:
+ |- [+] Container: /Game/Levels/IntroToGame
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:2DAC5D1744BC8825F001CB8218A3C556 BaseClass: NativeClass:/Script/Engine.SpotLight Name:SpotLight_UAID_C85309F705510DEA02_1416551894 Label:SpotLight SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=798.455 Y=-963.855 Z=-1631.877), Max=(X=2188.619 Y=426.309 Z=-241.713) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:3959E80A4ED83C5A617B328D81638B31 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_C85309F705510DEA02_1411237893 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=2270.802 Y=-262.961 Z=-473.624), Max=(X=2270.802 Y=-262.961 Z=-473.624) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:7971C90742E0A16E7D7689A5DDC61C39 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_C85309F705510CEA02_1683830714 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=1571.590 Y=-248.670 Z=-373.788), Max=(X=1571.590 Y=-248.670 Z=-373.788) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:9C72429F4ECBCB5824924496F2B1D9A5 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C85309F705510DEA02_1342228891 Label:Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1423.944 Y=-439.658 Z=-807.555), Max=(X=1722.580 Y=-141.022 Z=-508.920) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:A36DCE8B46CB01EFE72D038B8A196C7D BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- Guid:C4B11EE140805BFAC8D6B291677C577F BaseClass: NativeClass:/Script/LevelSequence.LevelSequenceActor Name:LevelSequenceActor_UAID_C85309F705510DEA02_2116968896 Label:intro SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=1554.741 Y=-387.413 Z=-474.999), Max=(X=1554.741 Y=-387.413 Z=-474.999) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:CF64AD3C445509DA4E92989EE1ED2957 BaseClass: NativeClass:/Script/Engine.CameraActor Name:CameraActor_UAID_C85309F705510DEA02_1480055895 Label:CameraActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1514.716 Y=-289.086 Z=-477.581), Max=(X=1514.716 Y=-289.086 Z=-477.581) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 Parent:E718C1E54D12BBF0EC48BD9D9325802B
+ |   |   |- Guid:E718C1E54D12BBF0EC48BD9D9325802B BaseClass:/Game/widgets/startMenu/BP_IntroPC.BP_IntroPC_C NativeClass:/Script/Engine.Actor Name:startMenu_C_UAID_C85309F705510DEA02_1372430892 Label:startMenu SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1551.791 Y=-330.302 Z=-509.770), Max=(X=1585.799 Y=-235.972 Z=-452.082) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:2DAC5D1744BC8825F001CB8218A3C556 BaseClass: NativeClass:/Script/Engine.SpotLight Name:SpotLight_UAID_C85309F705510DEA02_1416551894 Label:SpotLight SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=798.455 Y=-963.855 Z=-1631.877), Max=(X=2188.619 Y=426.309 Z=-241.713) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:3959E80A4ED83C5A617B328D81638B31 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_C85309F705510DEA02_1411237893 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=2270.802 Y=-262.961 Z=-473.624), Max=(X=2270.802 Y=-262.961 Z=-473.624) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:7971C90742E0A16E7D7689A5DDC61C39 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_C85309F705510CEA02_1683830714 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=1571.590 Y=-248.670 Z=-373.788), Max=(X=1571.590 Y=-248.670 Z=-373.788) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:9C72429F4ECBCB5824924496F2B1D9A5 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_C85309F705510DEA02_1342228891 Label:Cube SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1423.944 Y=-439.658 Z=-807.555), Max=(X=1722.580 Y=-141.022 Z=-508.920) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:A36DCE8B46CB01EFE72D038B8A196C7D BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:C4B11EE140805BFAC8D6B291677C577F BaseClass: NativeClass:/Script/LevelSequence.LevelSequenceActor Name:LevelSequenceActor_UAID_C85309F705510DEA02_2116968896 Label:intro SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=1554.741 Y=-387.413 Z=-474.999), Max=(X=1554.741 Y=-387.413 Z=-474.999) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:CF64AD3C445509DA4E92989EE1ED2957 BaseClass: NativeClass:/Script/Engine.CameraActor Name:CameraActor_UAID_C85309F705510DEA02_1480055895 Label:CameraActor SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1514.716 Y=-289.086 Z=-477.581), Max=(X=1514.716 Y=-289.086 Z=-477.581) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 Parent:E718C1E54D12BBF0EC48BD9D9325802B
+ |   |   |   |- Guid:E718C1E54D12BBF0EC48BD9D9325802B BaseClass:/Game/widgets/startMenu/BP_IntroPC.BP_IntroPC_C NativeClass:/Script/Engine.Actor Name:startMenu_C_UAID_C85309F705510DEA02_1372430892 Label:startMenu SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=1551.791 Y=-330.302 Z=-509.770), Max=(X=1585.799 Y=-235.972 Z=-452.082) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=798.455 Y=-963.855 Z=-1631.877), Max=(X=2188.619 Y=426.309 Z=-241.713)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/Levels/IntroToGame
+----------------------------------------------------------------------------------------------------------------
+IntroToGame - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of IntroToGame Persistent Level
+ |- Always loaded Actor Count: 15 
+ |- Actor Path: /Game/Levels/IntroToGame.IntroToGame:PersistentLevel.AbstractNavData-Default
+ |- Actor Package: /Game/Levels/IntroToGame
+ |- Actor Path: /Game/Levels/IntroToGame.IntroToGame:PersistentLevel.Brush_0
+ |- Actor Package: /Game/Levels/IntroToGame
+ |- Actor Path: /Game/Levels/IntroToGame.IntroToGame:PersistentLevel.CameraActor_UAID_C85309F705510DEA02_1480055895
+ |- Actor Package: /Game/__ExternalActors__/Levels/IntroToGame/9/4H/SGCUD2F93ZLLTT8YELPDOO
+ |- Actor Path: /Game/Levels/IntroToGame.IntroToGame:PersistentLevel.DefaultPhysicsVolume_0
+ |- Actor Package: /Game/Levels/IntroToGame
+ |- Actor Path: /Game/Levels/IntroToGame.IntroToGame:PersistentLevel.ExponentialHeightFog_UAID_C85309F705510DEA02_1411237893
+ |- Actor Package: /Game/__ExternalActors__/Levels/IntroToGame/E/4M/6VXSDUUXAP2X64LHLPNL7Z
+ |- Actor Path: /Game/Levels/IntroToGame.IntroToGame:PersistentLevel.GameplayDebuggerPlayerManager_0
+ |- Actor Package: /Game/Levels/IntroToGame
+ |- Actor Path: /Game/Levels/IntroToGame.IntroToGame:PersistentLevel.IntroToGame_C_7
+ |- Actor Package: /Game/Levels/IntroToGame
+ |- Actor Path: /Game/Levels/IntroToGame.IntroToGame:PersistentLevel.LevelSequenceActor_UAID_C85309F705510DEA02_2116968896
+ |- Actor Package: /Game/__ExternalActors__/Levels/IntroToGame/6/WB/1T34FAFCEPMM3MDV5ZBC2O
+ |- Actor Path: /Game/Levels/IntroToGame.IntroToGame:PersistentLevel.SkyAtmosphere_UAID_C85309F705510CEA02_1683830714
+ |- Actor Package: /Game/__ExternalActors__/Levels/IntroToGame/3/1V/U82VK2GYKXZDRWBWGAVMLE
+ |- Actor Path: /Game/Levels/IntroToGame.IntroToGame:PersistentLevel.SpotLight_UAID_C85309F705510DEA02_1416551894
+ |- Actor Package: /Game/__ExternalActors__/Levels/IntroToGame/A/QW/YKNZPDGVW54Z704ZA9C2P2
+ |- Actor Path: /Game/Levels/IntroToGame.IntroToGame:PersistentLevel.startMenu_C_UAID_C85309F705510DEA02_1372430892
+ |- Actor Package: /Game/__ExternalActors__/Levels/IntroToGame/E/YL/I7IV882RP2QP26KOM3VW6N
+ |- Actor Path: /Game/Levels/IntroToGame.IntroToGame:PersistentLevel.StaticMeshActor_UAID_C85309F705510DEA02_1342228891
+ |- Actor Package: /Game/__ExternalActors__/Levels/IntroToGame/D/B6/MAK9UO83HK1Z9T2PMBK2WN
+ |- Actor Path: /Game/Levels/IntroToGame.IntroToGame:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/Levels/IntroToGame/4/NO/8WFXY3LNASBEVJ0AN1IEDG
+ |- Actor Path: /Game/Levels/IntroToGame.IntroToGame:PersistentLevel.WorldPartitionMiniMap_UAID_C85309F705510CEA02_1560376711
+ |- Actor Package: /Game/__ExternalActors__/Levels/IntroToGame/0/AD/SKRHL4FZC26LDIAGCJN1XI
+ |- Actor Path: /Game/Levels/IntroToGame.IntroToGame:PersistentLevel.WorldSettings
+ |- Actor Package: /Game/Levels/IntroToGame
+
+----------------------------------------------------------------------------------------------------------------
+IntroToGame - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=true, Min=(X=798.455 Y=-963.855 Z=-1631.877), Max=(X=2188.619 Y=426.309 Z=-241.713)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 2
+ |- Level  0: Cell Count    1 | Cell Size   12800 | Actor Count    4 (100.0%)
+ |- Level  1: Cell Count    0 | Cell Size   25600 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+ |- [+] Content of Cell IntroToGame_MainGrid_L0_X0_Y0 (AMVLWJSPGA90TQE2W5HRFG7UW)
+ |   |- Actor Count: 4
+ |   |-          Actor Path: /Game/Levels/IntroToGame.IntroToGame:PersistentLevel.SpotLight_UAID_C85309F705510DEA02_1416551894
+ |   |-       Actor Package: /Game/__ExternalActors__/Levels/IntroToGame/A/QW/YKNZPDGVW54Z704ZA9C2P2
+ |   |- Actor Instance Guid: 2DAC5D1744BC8825F001CB8218A3C556
+ |   |-          Actor Path: /Game/Levels/IntroToGame.IntroToGame:PersistentLevel.StaticMeshActor_UAID_C85309F705510DEA02_1342228891
+ |   |-       Actor Package: /Game/__ExternalActors__/Levels/IntroToGame/D/B6/MAK9UO83HK1Z9T2PMBK2WN
+ |   |- Actor Instance Guid: 9C72429F4ECBCB5824924496F2B1D9A5
+ |   |-          Actor Path: /Game/Levels/IntroToGame.IntroToGame:PersistentLevel.CameraActor_UAID_C85309F705510DEA02_1480055895
+ |   |-       Actor Package: /Game/__ExternalActors__/Levels/IntroToGame/9/4H/SGCUD2F93ZLLTT8YELPDOO
+ |   |- Actor Instance Guid: CF64AD3C445509DA4E92989EE1ED2957
+ |   |-          Actor Path: /Game/Levels/IntroToGame.IntroToGame:PersistentLevel.startMenu_C_UAID_C85309F705510DEA02_1372430892
+ |   |-       Actor Package: /Game/__ExternalActors__/Levels/IntroToGame/E/YL/I7IV882RP2QP26KOM3VW6N
+ |   |- Actor Instance Guid: E718C1E54D12BBF0EC48BD9D9325802B
+[+] Content of Grid Level 1
+

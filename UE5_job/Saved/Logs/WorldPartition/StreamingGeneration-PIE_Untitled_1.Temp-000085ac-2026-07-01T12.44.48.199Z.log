@@ -1,0 +1,55 @@
+[+] Containers:
+ |- [+] Container: /Temp/Untitled_1
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:7971C90742E0A16E7D7689A5DDC61C39 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_C85309F705510CEA02_1683830714 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=1571.590 Y=-248.670 Z=-373.788), Max=(X=1571.590 Y=-248.670 Z=-373.788) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:A36DCE8B46CB01EFE72D038B8A196C7D BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:7971C90742E0A16E7D7689A5DDC61C39 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_C85309F705510CEA02_1683830714 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=1571.590 Y=-248.670 Z=-373.788), Max=(X=1571.590 Y=-248.670 Z=-373.788) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:A36DCE8B46CB01EFE72D038B8A196C7D BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Temp/Untitled_1
+----------------------------------------------------------------------------------------------------------------
+Untitled - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Untitled Persistent Level
+ |- Always loaded Actor Count: 8 
+ |- Actor Path: /Temp/Untitled_1.Untitled:PersistentLevel.AbstractNavData-Default
+ |- Actor Package: /Temp/Untitled_1
+ |- Actor Path: /Temp/Untitled_1.Untitled:PersistentLevel.Brush_0
+ |- Actor Package: /Temp/Untitled_1
+ |- Actor Path: /Temp/Untitled_1.Untitled:PersistentLevel.DefaultPhysicsVolume_0
+ |- Actor Package: /Temp/Untitled_1
+ |- Actor Path: /Temp/Untitled_1.Untitled:PersistentLevel.GameplayDebuggerPlayerManager_0
+ |- Actor Package: /Temp/Untitled_1
+ |- Actor Path: /Temp/Untitled_1.Untitled:PersistentLevel.SkyAtmosphere_UAID_C85309F705510CEA02_1683830714
+ |- Actor Package: /Temp/__ExternalActors__/Untitled_1/3/2S/J37VIUY4BW9XOVUTUUB8B5
+ |- Actor Path: /Temp/Untitled_1.Untitled:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Temp/__ExternalActors__/Untitled_1/E/8Z/YRWO5L41PJA7Q9D3CDC0L2
+ |- Actor Path: /Temp/Untitled_1.Untitled:PersistentLevel.WorldPartitionMiniMap_UAID_C85309F705510CEA02_1560376711
+ |- Actor Package: /Temp/__ExternalActors__/Untitled_1/3/7X/5PER40STVTF883RHUHIQ5J
+ |- Actor Path: /Temp/Untitled_1.Untitled:PersistentLevel.WorldSettings
+ |- Actor Package: /Temp/Untitled_1
+
+----------------------------------------------------------------------------------------------------------------
+Untitled - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 12800
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 25600.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    0 | Cell Size   12800 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+
