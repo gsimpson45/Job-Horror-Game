@@ -1,0 +1,91 @@
+[
+  {
+    "Name": "D_0",
+    "Character": "You",
+    "emotion": "happy",
+    "dialogue": "It made my day finding this chair in a dumpster.",
+    "typeSpeed": 1.0,
+    "eventTag": "switch_camera",
+    "triggerEvent": "none",
+    "nextMessage": [
+      1
+    ],
+    "messageID": 0
+  },
+  {
+    "Name": "D_1",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "I cleaned it thoroughly but the smell of urine and grease won\u2019t leave.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      2
+    ],
+    "messageID": 1
+  },
+  {
+    "Name": "D_2",
+    "Character": "You",
+    "emotion": "amused",
+    "dialogue": "The worst part is I don\u2019t know if that smell came from a hobo near the dumpster, or the previous owner.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      3
+    ],
+    "messageID": 2
+  },
+  {
+    "Name": "D_3",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "And of course the main computer, where all the magic happens.",
+    "typeSpeed": 1.0,
+    "eventTag": "switch_camera",
+    "triggerEvent": "none",
+    "nextMessage": [
+      4
+    ],
+    "messageID": 3
+  },
+  {
+    "Name": "D_4",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "I turned the case of an old TV into my computer display.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      5
+    ],
+    "messageID": 4
+  },
+  {
+    "Name": "D_5",
+    "Character": "You",
+    "emotion": "neutral",
+    "dialogue": "Needed some help from Bailey since she is the computer engineer.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [
+      6
+    ],
+    "messageID": 5
+  },
+  {
+    "Name": "D_6",
+    "Character": "You",
+    "emotion": "amused",
+    "dialogue": "Making a display with more that just ducttape is more than my brain can handle.",
+    "typeSpeed": 1.0,
+    "eventTag": "",
+    "triggerEvent": "none",
+    "nextMessage": [],
+    "messageID": 6
+  }
+]
